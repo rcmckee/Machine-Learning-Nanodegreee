@@ -208,7 +208,7 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>Answer: </strong></p>
+<p><strong>Answer: </strong> This is a classification problem because we are trying to determine if a student is at risk of failing or dropping out of school. The student either is at risk or is not at risk. If this were a regression problem we would be giving a value, like what is the risk that the student might drop out. The regression problem would give a value, the classification problem returns a yes or a no, meaning they either are a risk or are not a risk.</p>
 
 </div>
 </div>
@@ -225,7 +225,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[1]:</div>
+<div class="prompt input_prompt">In&nbsp;[13]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># Import libraries</span>
@@ -260,7 +260,7 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[3]:</div>
+<div class="prompt input_prompt">In&nbsp;[14]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="n">student_data</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
@@ -274,7 +274,7 @@ div#notebook {
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[3]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[14]:</div>
 
 <div class="output_html rendered_html output_subarea output_execute_result">
 <div>
@@ -457,14 +457,14 @@ div#notebook {
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[59]:</div>
+<div class="prompt input_prompt">In&nbsp;[15]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># TODO: Calculate number of students</span>
 <span class="n">n_students</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">student_data</span><span class="p">)</span>
 
-<span class="c1"># TODO: Calculate number of features</span>
-<span class="n">n_features</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">student_data</span><span class="o">.</span><span class="n">columns</span><span class="p">)</span>
+<span class="c1"># TODO: Calculate number of features ***I didn&#39;t know that the target column is not included as a feature. </span>
+<span class="n">n_features</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">student_data</span><span class="o">.</span><span class="n">columns</span><span class="p">)</span><span class="o">-</span><span class="mi">1</span>
 
 <span class="c1"># TODO: Calculate passing students</span>
 <span class="n">n_passed</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">(</span><span class="n">student_data</span><span class="p">[</span><span class="s1">&#39;passed&#39;</span><span class="p">]</span> <span class="o">==</span> <span class="s2">&quot;yes&quot;</span><span class="p">)</span>
@@ -494,7 +494,7 @@ div#notebook {
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>Total number of students: 395
-Number of features: 31
+Number of features: 30
 Number of students who passed: 265
 Number of students who failed: 83
 Graduation rate of the class: 67.09%
@@ -520,7 +520,7 @@ Graduation rate of the class: 67.09%
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[60]:</div>
+<div class="prompt input_prompt">In&nbsp;[16]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># Extract feature columns</span>
@@ -590,7 +590,7 @@ Feature values:
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[93]:</div>
+<div class="prompt input_prompt">In&nbsp;[17]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="k">print</span> <span class="n">y_all</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
@@ -634,7 +634,7 @@ Name: passed, dtype: object
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[61]:</div>
+<div class="prompt input_prompt">In&nbsp;[18]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="k">def</span> <span class="nf">preprocess_features</span><span class="p">(</span><span class="n">X</span><span class="p">):</span>
@@ -705,12 +705,13 @@ Name: passed, dtype: object
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[121]:</div>
+<div class="prompt input_prompt">In&nbsp;[20]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># TODO: Import any additional functionality you may need here</span>
 <span class="kn">from</span> <span class="nn">sklearn</span> <span class="kn">import</span> <span class="n">cross_validation</span>
 <span class="kn">from</span> <span class="nn">sklearn.cross_validation</span> <span class="kn">import</span> <span class="n">ShuffleSplit</span>
+<span class="kn">from</span> <span class="nn">sklearn.cross_validation</span> <span class="kn">import</span> <span class="n">train_test_split</span>
 
 
 <span class="c1"># TODO: Set the number of training points</span>
@@ -802,23 +803,28 @@ Testing set has 95 samples.
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><strong>Answer: </strong></p>
 <ul>
-<li>Gaussian Naive Bays<ul>
+<li><p>Gaussian Naive Bays</p>
+<ul>
 <li>Application: mark email as spam <a href="https://www.quora.com/In-what-real-world-applications-is-Naive-Bayes-classifier-used"><code>citation</code></a></li>
-<li>Strengths: great performance <a href="https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms"><code>citation</code></a></li>
+<li>Strengths: great performance in that it operates quickly and is not costly on computer resources. <a href="https://www.quora.com/What-are-the-advantages-of-different-classification-algorithms"><code>citation</code></a></li>
 <li>Weaknesses: It can be innacurate with a small set of data <a href="https://www.researchgate.net/post/What_are_the_disadvantages_of_Naive_Bayes"><code>citation</code></a></li>
-<li></li>
+<li>Since, in an earlier project we used Naive Bays and the data set size was similar, I am assuming that this is an adequate data set size. Also, since the data set will likely grow over time, it would be a good model to use.</li>
 </ul>
 </li>
-<li>Decision Trees <a href="http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet"><code>citation</code></a><ul>
+<li><p>Decision Trees <a href="http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet"><code>citation</code></a></p>
+<ul>
 <li>Application: credit risk analysis, medical diagnosis.</li>
-<li>Strengths: Fast, accurate.</li>
-<li>Weaknesses: complex decision trees can be difficult to comprehend.</li>
+<li>Strengths: The model operates quickly, and is generally known to be accurate.</li>
+<li>Weaknesses: complex decision trees can be difficult to comprehend and thus, are not very useful for learning about the data.</li>
+<li>Since the data is not too complex and there are not too many features, the decision tree could be good for this problem set since it is fast and accurate.</li>
 </ul>
 </li>
-<li>Support Vector Machines <a href="http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet"><code>citation</code></a><ul>
+<li><p>Support Vector Machines <a href="http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet"><code>citation</code></a></p>
+<ul>
 <li>Application: classifying proteins, text classification</li>
 <li>Strengths: Can model complex, nonlinear relationships</li>
 <li>Weaknesses: Model parameters are difficult to interpret, Requires significant memory and processing power.</li>
+<li>Since we are not working with a large data set the processing requirements are not as big of a problem. The fact that it can model complex nonlinear relationships could provide us with insites to the data that we would not see from other models.</li>
 </ul>
 </li>
 </ul>
@@ -846,7 +852,7 @@ Testing set has 95 samples.
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[107]:</div>
+<div class="prompt input_prompt">In&nbsp;[21]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="k">def</span> <span class="nf">train_classifier</span><span class="p">(</span><span class="n">clf</span><span class="p">,</span> <span class="n">X_train</span><span class="p">,</span> <span class="n">y_train</span><span class="p">):</span>
@@ -919,7 +925,7 @@ Testing set has 95 samples.
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[124]:</div>
+<div class="prompt input_prompt">In&nbsp;[22]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># TODO: Import the three supervised learning models from sklearn</span>
@@ -929,8 +935,8 @@ Testing set has 95 samples.
 
 <span class="c1"># TODO: Initialize the three models</span>
 <span class="n">clf_A</span> <span class="o">=</span> <span class="n">GaussianNB</span><span class="p">()</span>
-<span class="n">clf_B</span> <span class="o">=</span> <span class="n">tree</span><span class="o">.</span><span class="n">DecisionTreeClassifier</span><span class="p">()</span>
-<span class="n">clf_C</span> <span class="o">=</span> <span class="n">svm</span><span class="o">.</span><span class="n">SVC</span><span class="p">()</span>
+<span class="n">clf_B</span> <span class="o">=</span> <span class="n">tree</span><span class="o">.</span><span class="n">DecisionTreeClassifier</span><span class="p">(</span><span class="n">random_state</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
+<span class="n">clf_C</span> <span class="o">=</span> <span class="n">svm</span><span class="o">.</span><span class="n">SVC</span><span class="p">(</span><span class="n">random_state</span><span class="o">=</span><span class="bp">None</span><span class="p">)</span>
 
 <span class="c1"># TODO: Set up the training set sizes</span>
 <span class="n">X_train_100</span> <span class="o">=</span> <span class="n">X_train</span><span class="p">[:</span><span class="mi">100</span><span class="p">]</span>
@@ -967,58 +973,58 @@ Testing set has 95 samples.
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>Training a GaussianNB using a training set size of 100. . .
-Trained model in 0.0690 seconds
-Made predictions in 0.0095 seconds.
+Trained model in 0.0030 seconds
+Made predictions in 0.0006 seconds.
 F1 score for training set: 0.8550.
-Made predictions in 0.0060 seconds.
+Made predictions in 0.0004 seconds.
 F1 score for test set: 0.7481.
 Training a GaussianNB using a training set size of 200. . .
-Trained model in 0.0043 seconds
-Made predictions in 0.0005 seconds.
+Trained model in 0.0008 seconds
+Made predictions in 0.0004 seconds.
 F1 score for training set: 0.8321.
-Made predictions in 0.0003 seconds.
+Made predictions in 0.0006 seconds.
 F1 score for test set: 0.7132.
 Training a GaussianNB using a training set size of 300. . .
-Trained model in 0.0009 seconds
-Made predictions in 0.0004 seconds.
+Trained model in 0.0019 seconds
+Made predictions in 0.0008 seconds.
 F1 score for training set: 0.8088.
-Made predictions in 0.0003 seconds.
+Made predictions in 0.0023 seconds.
 F1 score for test set: 0.7500.
 Training a DecisionTreeClassifier using a training set size of 100. . .
-Trained model in 0.0105 seconds
-Made predictions in 0.0010 seconds.
+Trained model in 0.0336 seconds
+Made predictions in 0.0071 seconds.
 F1 score for training set: 1.0000.
-Made predictions in 0.0002 seconds.
-F1 score for test set: 0.7107.
+Made predictions in 0.0003 seconds.
+F1 score for test set: 0.6723.
 Training a DecisionTreeClassifier using a training set size of 200. . .
-Trained model in 0.0013 seconds
-Made predictions in 0.0002 seconds.
-F1 score for training set: 1.0000.
-Made predictions in 0.0002 seconds.
-F1 score for test set: 0.7200.
-Training a DecisionTreeClassifier using a training set size of 300. . .
-Trained model in 0.0031 seconds
+Trained model in 0.0021 seconds
 Made predictions in 0.0004 seconds.
 F1 score for training set: 1.0000.
-Made predictions in 0.0002 seconds.
-F1 score for test set: 0.7059.
+Made predictions in 0.0003 seconds.
+F1 score for test set: 0.7273.
+Training a DecisionTreeClassifier using a training set size of 300. . .
+Trained model in 0.0847 seconds
+Made predictions in 0.0006 seconds.
+F1 score for training set: 1.0000.
+Made predictions in 0.0004 seconds.
+F1 score for test set: 0.7179.
 Training a SVC using a training set size of 100. . .
-Trained model in 0.0069 seconds
-Made predictions in 0.0026 seconds.
+Trained model in 0.0063 seconds
+Made predictions in 0.0014 seconds.
 F1 score for training set: 0.8591.
-Made predictions in 0.0009 seconds.
+Made predictions in 0.0012 seconds.
 F1 score for test set: 0.7838.
 Training a SVC using a training set size of 200. . .
-Trained model in 0.0033 seconds
-Made predictions in 0.0023 seconds.
+Trained model in 0.0066 seconds
+Made predictions in 0.0032 seconds.
 F1 score for training set: 0.8693.
-Made predictions in 0.0011 seconds.
+Made predictions in 0.0013 seconds.
 F1 score for test set: 0.7755.
 Training a SVC using a training set size of 300. . .
-Trained model in 0.0110 seconds
-Made predictions in 0.0092 seconds.
+Trained model in 0.0084 seconds
+Made predictions in 0.0080 seconds.
 F1 score for training set: 0.8692.
-Made predictions in 0.0019 seconds.
+Made predictions in 0.0026 seconds.
 F1 score for test set: 0.7586.
 </pre>
 </div>
@@ -1195,8 +1201,8 @@ F1 score for test set: 0.7586.
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>Answer: </strong> GNB assumes that each feature, or column in excel terms, is independent of the other features. This means it will not run into the problem of trying to relate each feature to every other feature, which takes up a lot of computer resources. Eventually if too many features are added, other models would take exponentially more time to complete the predictions. The GNB allows us to add more features as we gather new information to make more accurate predictions.</p>
-<p>The GNB model can best be described as a bell curve typical to the ones used for grades. It assumes that there is a normal distribution with most of the predictions occuring in a certain percentile.</p>
+<p><strong>Answer: </strong> GNB assumes that each data type is independent of the other features. This means it will not run into the problem of trying to relate each data type to every other data type, which takes up a lot of computer resources. Eventually if too many data types are added, other models would take infinitely more time to complete the predictions. The GNB allows us to add more data as we gather new information to make more accurate predictions.</p>
+<p>The GNB model can best be described as a bell curve typical to the ones used for grades.</p>
 
 </div>
 </div>
@@ -1227,18 +1233,19 @@ F1 score for test set: 0.7586.
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[174]:</div>
+<div class="prompt input_prompt">In&nbsp;[24]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython2"><pre><span></span><span class="c1"># TODO: Import &#39;GridSearchCV&#39; and &#39;make_scorer&#39;</span>
 <span class="kn">from</span> <span class="nn">sklearn</span> <span class="kn">import</span> <span class="n">grid_search</span>
+<span class="kn">from</span> <span class="nn">sklearn.naive_bayes</span> <span class="kn">import</span> <span class="n">GaussianNB</span>
 <span class="kn">from</span> <span class="nn">sklearn.metrics</span> <span class="kn">import</span> <span class="n">make_scorer</span><span class="p">,</span> <span class="n">f1_score</span>
 
 <span class="c1"># TODO: Create the parameters list you wish to tune</span>
 <span class="n">parameters</span> <span class="o">=</span> <span class="p">{</span><span class="s1">&#39;gamma&#39;</span><span class="p">:</span> <span class="p">[</span><span class="mf">0.1</span><span class="p">,</span> <span class="mf">0.01</span><span class="p">,</span> <span class="mf">0.001</span><span class="p">,</span> <span class="mf">0.0001</span><span class="p">]}</span>
 
 <span class="c1"># TODO: Initialize the classifier</span>
-<span class="n">clf</span> <span class="o">=</span> <span class="n">svm</span><span class="o">.</span><span class="n">SVC</span><span class="p">()</span>
+<span class="n">clf</span> <span class="o">=</span> <span class="n">GaussianNB</span><span class="p">()</span>
 
 <span class="c1"># TODO: Make an f1 scoring function using &#39;make_scorer&#39; </span>
 <span class="n">f1_scorer</span> <span class="o">=</span> <span class="n">make_scorer</span><span class="p">(</span><span class="n">f1_score</span><span class="p">,</span> <span class="n">pos_label</span><span class="o">=</span><span class="s2">&quot;yes&quot;</span><span class="p">)</span>
@@ -1267,9 +1274,9 @@ F1 score for test set: 0.7586.
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>Made predictions in 0.0061 seconds.
+<pre>Made predictions in 0.0062 seconds.
 Tuned model has a training F1 score of 0.9717.
-Made predictions in 0.0021 seconds.
+Made predictions in 0.0020 seconds.
 Tuned model has a testing F1 score of 0.7919.
 </pre>
 </div>
@@ -1294,7 +1301,7 @@ Tuned model has a testing F1 score of 0.7919.
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p><strong>Answer: </strong> Tuned model has a training F1 score of 0.9717 and a testing F1 score of 0.7919. This is an increase from the untuned model which had a training F1 score of 0.8692    and a testing F1 score of 0.7586.</p>
+<p><strong>Answer: </strong> Tuned model has a training F1 score of 0.9717 and a testing F1 score of 0.7919. This is an increase from the untuned model which had a training F1 score of 0.8088    and a testing F1 score of 0.7500.</p>
 
 </div>
 </div>
