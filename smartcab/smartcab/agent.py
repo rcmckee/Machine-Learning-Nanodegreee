@@ -2,6 +2,7 @@ import random
 from environment import Agent, Environment
 from planner import RoutePlanner
 from simulator import Simulator
+import pygame
 
 class LearningAgent(Agent):
     """An agent that learns to drive in the smartcab world."""
@@ -10,10 +11,12 @@ class LearningAgent(Agent):
         super(LearningAgent, self).__init__(env)  # sets self.env = env, state = None, next_waypoint = None, and a default color
         self.color = 'red'  # override color
         self.planner = RoutePlanner(self.env, self)  # simple route planner to get next_waypoint
+        self.state = None
         # TODO: Initialize any additional variables here
 
     def reset(self, destination=None):
         self.planner.route_to(destination)
+        self.state = None
         # TODO: Prepare for a new trip; reset any variables here, if required
 
     def update(self, t):
@@ -23,9 +26,11 @@ class LearningAgent(Agent):
         deadline = self.env.get_deadline(self)
 
         # TODO: Update state
-        
-        # TODO: Select action according to your policy
-        action = None
+        self.state = self.next_waypoint
+
+        # Done: Select action according to your policy
+        action = [None, 'forward', 'left', 'right']
+        action = random.choice(action)     #http://stackoverflow.com/questions/306400/how-do-i-randomly-select-an-item-from-a-list-using-python
 
         # Execute action and get reward
         reward = self.env.act(self, action)
@@ -41,7 +46,7 @@ def run():
     # Set up environment and agent
     e = Environment()  # create environment (also adds some dummy traffic)
     a = e.create_agent(LearningAgent)  # create agent
-    e.set_primary_agent(a, enforce_deadline=True)  # specify agent to track
+    e.set_primary_agent(a, enforce_deadline=False)  # specify agent to track
     # NOTE: You can set enforce_deadline=False while debugging to allow longer trials
 
     # Now simulate it

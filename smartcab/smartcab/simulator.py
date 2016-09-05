@@ -25,7 +25,7 @@ class Simulator(object):
         self.env = env
         self.size = size if size is not None else ((self.env.grid_size[0] + 1) * self.env.block_size, (self.env.grid_size[1] + 1) * self.env.block_size)
         self.width, self.height = self.size
-        
+
         self.bg_color = self.colors['white']
         self.road_width = 5
         self.road_color = self.colors['black']
@@ -47,7 +47,7 @@ class Simulator(object):
                 self.agent_sprite_size = (32, 32)
                 self.agent_circle_radius = 10  # radius of circle, when using simple representation
                 for agent in self.env.agent_states:
-                    agent._sprite = self.pygame.transform.smoothscale(self.pygame.image.load(os.path.join("images", "car-{}.png".format(agent.color))), self.agent_sprite_size)
+                    agent._sprite = self.pygame.transform.smoothscale(self.pygame.image.load(os.path.join("../images", "car-{}.png".format(agent.color))), self.agent_sprite_size)
                     agent._sprite_size = (agent._sprite.get_width(), agent._sprite.get_height())
 
                 self.font = self.pygame.font.Font(None, 28)
