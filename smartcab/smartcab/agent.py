@@ -48,8 +48,9 @@ class LearningAgent(Agent):
         nextState = self.get_State(self.env.sense(self)) 
         nextQ = max([self.get_Q(nextState, nextAction) for nextAction in self.actions])  
 
-        self.q_table[(self.state, action)] = self.alpha_learning_rate * (reward + self.gamma_future_reward_discount * nextQ) + (1 - self.alpha_learning_rate) * thisQ
-
+        #self.q_table[(self.state, action)] = self.alpha_learning_rate * (reward + self.gamma_future_reward_discount * nextQ) + (1 - self.alpha_learning_rate) * thisQ
+        #modified Q -learning formula based on reviewers feedback
+        thisQ = (1.0 - self.alpha_learning_rate) * thisQ + self.alpha_learning_rate * (reward + self.gamma_future_reward_discount * nextQ)
         print "LearningAgent.update(): deadline = {}, inputs = {}, action = {}, reward = {}".format(deadline, inputs, action, reward)  
         
                 
