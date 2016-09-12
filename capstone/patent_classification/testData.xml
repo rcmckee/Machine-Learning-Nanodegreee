@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v40-2004-12-02.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v40 2004-12-02" file="USD0513106-20051227.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20051212" date-publ="20051227">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0513106</doc-number>
+<kind>S1</kind>
+<date>20051227</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29220187</doc-number>
+<date>20041228</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>14</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>8</edition>
+<main-classification>0101</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 1106</main-classification>
+<further-classification> D1126</further-classification>
+</classification-national>
+<invention-title id="d0e53">Wand-shaped food product</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D317183</doc-number>
+<kind>S</kind>
+<name>Neuroth et al.</name>
+<date>19910500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D21402</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D394535</doc-number>
+<kind>S</kind>
+<name>Villota et al.</name>
+<date>19980500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1126</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<field-of-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 1106</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 1126-127</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426104</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426516</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21386</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D21402</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D11 70</main-classification>
+</classification-national>
+</field-of-search>
+<figures>
+<number-of-drawing-sheets>1</number-of-drawing-sheets>
+<number-of-figures>6</number-of-figures>
+</figures>
+<us-related-documents>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>29207530</doc-number>
+<kind>00</kind>
+<date>20040615</date>
+</document-id>
+<parent-status>PENDING</parent-status>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>29220187</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+<division>
+<relation>
+<parent-doc>
+<document-id>
+<country>US</country>
+<doc-number>29189067</doc-number>
+<kind>00</kind>
+<date>20030828</date>
+</document-id>
+<parent-grant-document>
+<document-id>
+<country>US</country>
+<doc-number>D495462</doc-number>
+<kind>A </kind>
+</document-id>
+</parent-grant-document>
+</parent-doc>
+<child-doc>
+<document-id>
+<country>US</country>
+<doc-number>29207530</doc-number>
+</document-id>
+</child-doc>
+</relation>
+</division>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Haro</last-name>
+<first-name>Guillermo</first-name>
+<address>
+<city>Skokie</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Fitch, Even, Tabin &#x26; Flannery</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Kraft Foods Holdings, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Northfield</city>
+<state>IL</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Burgess</last-name>
+<first-name>Pamela</first-name>
+<department>2911</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="83.12mm" wi="95.63mm" file="USD0513106-20051227-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="253.11mm" wi="186.12mm" file="USD0513106-20051227-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001">FIG. 1 is a perspective view showing an embodiment of my new design, comprising a wand-shaped food product;</p>
+<p id="p-0002" num="0002">FIG. 2 is a front elevation view of the wand-shaped food product of FIG. 1, the back elevation view being the mirror image thereof;</p>
+<p id="p-0003" num="0003">FIG. 3 is a left side elevation view of the wand-shaped food product of FIG. 1;</p>
+<p id="p-0004" num="0004">FIG. 4 is a right side elevation view of the wand-shaped food product of FIG. 1;</p>
+<p id="p-0005" num="0005">FIG. 5 is a bottom plan view of the wand-shaped food product of FIG. 1; and,</p>
+<p id="p-0006" num="0006">FIG. 6 is a top plan view of the wand-shaped food product of FIG. 1.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a wand-shaped food product, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v40-2004-12-02.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v40 2004-12-02" file="USD0513107-20051227.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20051212" date-publ="20051227">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>D0513107</doc-number>
+<kind>S1</kind>
+<date>20051227</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="design">
+<document-id>
+<country>US</country>
+<doc-number>29219077</doc-number>
+<date>20041210</date>
+</document-id>
+</application-reference>
+<us-application-series-code>29</us-application-series-code>
+<us-term-of-grant>
+<length-of-grant>14</length-of-grant>
+</us-term-of-grant>
+<classification-locarno>
+<edition>8</edition>
+<main-classification>0101</main-classification>
+</classification-locarno>
+<classification-national>
+<country>US</country>
+<main-classification>D 1120</main-classification>
+<further-classification> D1128</further-classification>
+</classification-national>
+<invention-title id="d0e53">Food product</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>D21086</doc-number>
+<kind>S</kind>
+<name>Bayle</name>
+<date>18910900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1120</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>D73067</doc-number>
+<kind>S</kind>
+<name>Chambers</name>
+<date>19270700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1120</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>D385085</doc-number>
+<kind>S</kind>
+<name>Benson et al.</name>
+<date>19971000</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1120</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>US</country>
+<doc-number>D397535</doc-number>
+<kind>S</kind>
+<name>Izzo et al.</name>
+<date>19980900</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1109</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>US</country>
+<doc-number>D428235</doc-number>
+<kind>S</kind>
+<name>Kreutzmann</name>
+<date>20000700</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1120</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00006">
+<document-id>
+<country>US</country>
+<doc-number>D446903</doc-number>
+<kind>S</kind>
+<name>Pavan</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>D 1106</main-classification></classification-national>
+</citation>
+</references-cited>
+<number-of-claims>1</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<field-of-search>
+<classification-national>
+<country>US</country>
+<main-classification>D 1120</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 1128</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 1129</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 1130</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>D 1127</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426 94</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426104</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426440</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426449-450</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426499</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426549-550</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>426618-621</main-classification>
+<additional-info>unstructured</additional-info>
+</classification-national>
+</field-of-search>
+<figures>
+<number-of-drawing-sheets>1</number-of-drawing-sheets>
+<number-of-figures>3</number-of-figures>
+</figures>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Harrington</last-name>
+<first-name>Terry R.</first-name>
+<address>
+<city>Albertville</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<last-name>O'Toole</last-name>
+<first-name>John A. </first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+<agent sequence="02" rep-type="attorney">
+<addressbook>
+<last-name>Taylor</last-name>
+<first-name>Douglas J.</first-name>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>General Mills, Inc.</orgname>
+<role>02</role>
+<address>
+<city>Minneapolis</city>
+<state>MN</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Burgess</last-name>
+<first-name>Pamela</first-name>
+<department>2911</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="34.67mm" wi="40.13mm" file="USD0513107-20051227-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="207.86mm" wi="77.30mm" file="USD0513107-20051227-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<p id="p-0001" num="0001">FIG. 1 is a front perspective view of a food product embodying the new design;</p>
+<p id="p-0002" num="0002">FIG. 2 is a plan view thereof, the opposite being identical thereto; and,</p>
+<p id="p-0003" num="0003">FIG. 3 is the side view thereof, the opposite being identical thereto.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>The ornamental design for a food product, as shown and described.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v40-2004-12-02.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v40 2004-12-02" file="US06979700-20051227.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20051212" date-publ="20051227">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>06979700</doc-number>
+<kind>B2</kind>
+<date>20051227</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10271622</doc-number>
+<date>20021016</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<us-term-of-grant>
+<us-term-extension>201</us-term-extension>
+</us-term-of-grant>
+<classification-ipc>
+<edition>7</edition>
+<main-classification>C08J009/28</main-classification>
+</classification-ipc>
+<classification-national>
+<country>US</country>
+<main-classification>521 64</main-classification>  
+</classification-national>
+<invention-title id="d0e53">Non-degradable porous materials with high surface areas</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>5541234</doc-number>
+<kind>A</kind>
+<name>Unger et al.</name>
+<date>19960700</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6146892</doc-number>
+<kind>A</kind>
+<name>Ma et al.</name>
+<date>20001100</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>US</country>
+<doc-number>6281257</doc-number>
+<kind>B1</kind>
+<name>Ma et al.</name>
+<date>20010800</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00004">
+<othercit>Young, T.H., L.P. Cheng, D.J. Lin, L. Fane, and W.Y. Chuang, <i>Mechanisms of PVDF membrane formation by immersion-precipitation in soft </i>(<i>1-octanol</i>) <i>and harsh </i>(<i>water</i>) <i>nonsolvents</i>, Polymer, 1999, vol. 40, No. 19: pp. 5315-5323.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00005">
+<othercit>Meier-Haack, J., W. Lenk, S. Berwald, T. Rieser, and K. Lunkwitz, <i>Influence of thermal treatment on the pervaporation separation properties of polyamide-6 membranes</i>, Separation and Purification Technology, 2000, vol. 19, No. 3: pp. 199-207.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00006">
+<othercit>Zhang, R. and P.X. Ma, <i>Synthetic nano-fibrillar extracellular matrices with predesigned macroporous architectures</i>, J Biomed Mater Res, 2000, vol. 52, No. 2: pp. 430-438.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00007">
+<othercit>Zhang, R. and P.X. Ma, <i>Processing of Polymer Scaffolds: Phase separation, Methods of Tissue Engineering</i>, Chapter 62, pp. 715-724, 2002, Academic Press.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00008">
+<othercit>Ma, P.X. and R. Zhang, <i>Synthetic nano-scale fibrous extracellular matrix</i>, J Biomed Mater Res, 1999, vol. 46, No. 1: pp. 60-72.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00009">
+<othercit>Zhu, S. and P.X. Ma, <i>Development of phase structure during the processing of poly</i>(<i>l-lactic acid</i>) <i>scaffolds for tissue engineering</i>, Polymer Preprints, 2000, vol. 41, No. 2: pp. 1675-1676.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00010">
+<othercit>Ruiyun, Z. and P.X. Ma, <i>Porous poly</i>(<i>L-lactic acid</i>)<i>/apatite composites created by biomimetic process</i>, J Biomed Mater Res, 1999, vol. 45: pp. 285-293.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<nplcit num="00011">
+<othercit>Ruiyun, Z. and P.X. Ma, <i>Poly</i>(<i>&#x3b1;-hydroxyl acids</i>)<i>/hydroxyapatite porous composites for bone-tissue engineering. I. Preparation and morphology</i>, J Biomed Mater Res, 1999, vol. 44: pp. 446-455.</othercit>
+</nplcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>12</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<field-of-search>
+<classification-national>
+<country>US</country>
+<main-classification>521 64</main-classification>
+</classification-national>
+</field-of-search>
+<figures>
+<number-of-drawing-sheets>13</number-of-drawing-sheets>
+<number-of-figures>39</number-of-figures>
+</figures>
+<us-related-documents>
+<us-provisional-application>
+<document-id>
+<country>US</country>
+<doc-number>60330335</doc-number>
+<kind>00</kind>
+<date>20011017</date>
+</document-id>
+</us-provisional-application>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20030071383</doc-number>
+<kind>A1</kind>
+<date>20030417</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Ma</last-name>
+<first-name>Peter X.</first-name>
+<address>
+<city>Ann Arbor</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+<nationality>
+<country>omitted</country>
+</nationality>
+<residence>
+<country>US</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Dierker and Associates, P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>The Regents of The University of Michigan</orgname>
+<role>02</role>
+<address>
+<city>Ann Arbor</city>
+<state>MI</state>
+<country>US</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Foelak</last-name>
+<first-name>Morton</first-name>
+<department>1711</department>
+</primary-examiner>
+</examiners>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">A method for preparing a highly porous, high surface area non-degradable material includes the steps of mixing a non-degradable polymer with a solvent or mixture of solvents; gelling the mixture; and treating the gel under conditions whereby a substantially solvent free porous structure is created having a porosity greater than about 80%. The resultant material is mechanically strong and has an architecture including at least one of nano fibrous, micro fibrous, non fibrous, complex porous structure with nano fibrous architecture, and mixtures thereof.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="224.03mm" wi="151.64mm" file="US06979700-20051227-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="219.54mm" wi="159.00mm" file="US06979700-20051227-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="216.24mm" wi="162.98mm" file="US06979700-20051227-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="217.17mm" wi="155.62mm" file="US06979700-20051227-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="222.42mm" wi="151.13mm" file="US06979700-20051227-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00006" num="00006">
+<img id="EMI-D00006" he="221.49mm" wi="159.94mm" file="US06979700-20051227-D00006.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00007" num="00007">
+<img id="EMI-D00007" he="221.40mm" wi="146.73mm" file="US06979700-20051227-D00007.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00008" num="00008">
+<img id="EMI-D00008" he="218.10mm" wi="153.50mm" file="US06979700-20051227-D00008.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00009" num="00009">
+<img id="EMI-D00009" he="221.57mm" wi="150.96mm" file="US06979700-20051227-D00009.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00010" num="00010">
+<img id="EMI-D00010" he="220.13mm" wi="144.02mm" file="US06979700-20051227-D00010.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00011" num="00011">
+<img id="EMI-D00011" he="221.49mm" wi="147.91mm" file="US06979700-20051227-D00011.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00012" num="00012">
+<img id="EMI-D00012" he="219.88mm" wi="152.91mm" file="US06979700-20051227-D00012.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00013" num="00013">
+<img id="EMI-D00013" he="218.78mm" wi="155.62mm" file="US06979700-20051227-D00013.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?RELAPP description="Other Patent Relations" end="lead"?>
+<heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application claims the benefit of U.S. Provisional Patent application Ser. No. 60/330,335, filed Oct. 17, 2001.</p>
+<?RELAPP description="Other Patent Relations" end="tail"?>
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND OF THE INVENTION</heading>
+<p id="p-0003" num="0002">The present invention relates generally to porous materials having high surface areas, and more particularly to such materials which are non-degradable, and methods for fabricating the same.</p>
+<p id="p-0004" num="0003">Membranes have been typically used for filtration (microfiltration, ultrafiltration, nanofiltration), reverse osmosis (hyperfiltration), dialysis, pervaporation, and gas separation applications. See Scott, K. and R. Hughes, <i>Industrial Membrane Separation Technology, </i>1996, London: Blackie Academic &#x26; Professional; Baker, R. W., <i>Membrane technology and applications</i>, McGraw-Hill professional engineering, 2000, New York: McGraw-Hill; and Cardew, P. T., M. S. Le, and Royal Society of Chemistry, Process Technology Group, <i>Membrane processes: a technology guide, </i>1998, Cambridge: Royal Society of Chemistry.</p>
+<p id="p-0005" num="0004">A solid membrane can be made of synthetic polymers, natural macromolecules, inorganic compounds, ceramic, or metallic materials. These membrane materials are generally fabricated through sintering, stretching, extrusion, phase inversion and etching, or casting. See Scott, K. and R. Hughes, <i>Industrial Membrane Separation Technology, </i>1996, London: Blackie Academic &#x26; Professional; and Pinnau, I. and B. D. Freeman, <i>Membrane formation and modification</i>, ACS symposium series, 744, 2000, Washington, D.C.: American Chemical Society, Distributed by Oxford University Press.</p>
+<p id="p-0006" num="0005">Porous membranes are advantageous in their low resistance to mass transfer of solutes in solution due to the increased permeation rate resulting from the pores. Therefore, porous membranes have been employed for separation of mixtures of proteins and macromolecules, salt concentration, sterilization, etc. They can also serve as 3-D matrices for chemical and biochemical mass exchange or reactions to take place, or for cells or other living organisms (e.g., bacteria, viruses, fungi) to grow. Therefore, they can be used as matrices in diagnostic systems, catalysis systems, culture systems, drug delivery systems, wound dressings, etc.</p>
+<p id="p-0007" num="0006">U.S. Pat. No. 6,146,892 discloses a method for producing nanofibrillar matrices utilizing degradable polymers, such as for example, poly(L-lactic acid) (PLLA), poly(D,L-lactic acid-co-glycolic acid) (PLGA), and the like. The disclosed nanofibrillar matrices are highly porous and work well for various applications. However, the pore sizes are very small (on the order of 2 &#x3bc;m to 3 &#x3bc;m), which may in some instances render it more difficult for cells to enter. Further, small pore sizes may render it more difficult for material transport, especially materials which are particulate or contain particles. Yet further, the disclosed non-fibrillar structure (a platelet structure) was not as mechanically strong as may be desirable in some instances.</p>
+<heading id="h-0003" level="1">SUMMARY OF THE INVENTION</heading>
+<p id="p-0008" num="0007">The present invention comprises a method for preparing a highly porous, high surface area material, comprising the steps of mixing a non-degradable polymer with a solvent or mixture of solvents; gelling the mixture; and treating the gel under conditions whereby a substantially solvent free porous structure is created having a porosity greater than about 80%; wherein the material is mechanically strong and has an architecture comprising at least one of nano fibrous, micro fibrous, non fibrous, complex porous structure with nano fibrous architecture, and mixtures thereof.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0009" num="0008">Objects, features and advantages of the present invention will become apparent by reference to the following detailed description and drawings, in which:</p>
+<p id="p-0010" num="0009"><figref idref="DRAWINGS">FIG. 1</figref><i>a </i>is a SEM micrograph of PA-6,6 foam prepared from a 10% PA-6,6 solution in a mixed solvent of acetic acid/water (80/20) at the following gelation temperature: room temperature;</p>
+<p id="p-0011" num="0010"><figref idref="DRAWINGS">FIG. 1</figref><i>b </i>is a SEM micrograph of PA-6,6 foam prepared from a 10% PA-6,6 solution in a mixed solvent of acetic acid/water (80/20) at the following gelation temperature: &#x2212;20&#xb0; C.;</p>
+<p id="p-0012" num="0011"><figref idref="DRAWINGS">FIG. 1</figref><i>c </i>is a SEM micrograph of PA-6,6 foam prepared from a 10% PA-6,6 solution in a mixed solvent of acetic acid/water (80/20) at the following gelation temperature: &#x2212;70&#xb0; C.;</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref><i>d </i>is a SEM micrograph of PA-6,6 foam prepared from a 10% PA-6,6 solution in a mixed solvent of acetic acid/water (80/20) at the following gelation temperature: in liquid nitrogen;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref><i>a </i>is a SEM micrograph of PA-6,6 foam prepared from a 10% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature: room temperature;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 2</figref><i>b </i>is a SEM micrograph of PA-6,6 foam prepared from a 10% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature: &#x2212;20&#xb0; C.;</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 2</figref><i>c </i>is a SEM micrograph of PA-6,6 foam prepared from a 10% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature: &#x2212;70&#xb0; C., at &#xd7;500 magnification;</p>
+<p id="p-0017" num="0016"><figref idref="DRAWINGS">FIG. 2</figref><i>d </i>is a SEM micrograph of PA-6,6 foam prepared from a 10% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature: &#x2212;70&#xb0; C., at &#xd7;4000 magnification;</p>
+<p id="p-0018" num="0017"><figref idref="DRAWINGS">FIG. 3</figref><i>a </i>is a SEM micrograph of PA-6,6 foam prepared from a 10% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) quenched in liquid nitrogen, at &#xd7;500 magnification;</p>
+<p id="p-0019" num="0018"><figref idref="DRAWINGS">FIG. 3</figref><i>b </i>is a SEM micrograph of PA-6,6 foam prepared from a 10% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) quenched in liquid nitrogen, at &#xd7;2000 magnification;</p>
+<p id="p-0020" num="0019"><figref idref="DRAWINGS">FIG. 3</figref><i>c </i>is a SEM micrograph of PA-6,6 foam prepared from a 10% PA-6,6 solution in a mixed solvent of formic acid/water (80/20) quenched in liquid nitrogen, at &#xd7;500 magnification;</p>
+<p id="p-0021" num="0020"><figref idref="DRAWINGS">FIG. 3</figref><i>d </i>is a SEM micrograph of PA-6,6 foam prepared from a 10% PA-6,6 solution in a mixed solvent of formic acid/water (80/20) quenched in liquid nitrogen, at &#xd7;4000 magnification;</p>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 4</figref><i>a </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature: room temperature;</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 4</figref><i>b </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature: &#x2212;20&#xb0; C.;</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 4</figref><i>c </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature: &#x2212;70&#xb0; C.;</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 4</figref><i>d </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature: in liquid nitrogen;</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 5</figref><i>a </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature (dioxane instead of water was used for solvent exchange): room temperature;</p>
+<p id="p-0027" num="0026"><figref idref="DRAWINGS">FIG. 5</figref><i>b </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature (dioxane instead of water was used for solvent exchange): &#x2212;20&#xb0; C.;</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 5</figref><i>c </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature (dioxane instead of water was used for solvent exchange): &#x2212;70&#xb0; C.;</p>
+<p id="p-0029" num="0028"><figref idref="DRAWINGS">FIG. 5</figref><i>d </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature (dioxane instead of water was used for solvent exchange): in liquid nitrogen;</p>
+<p id="p-0030" num="0029"><figref idref="DRAWINGS">FIG. 6</figref><i>a </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/THF (40/60) at the following gelation temperature: room temperature;</p>
+<p id="p-0031" num="0030"><figref idref="DRAWINGS">FIG. 6</figref><i>b </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/THF (40/60) at the following gelation temperature: &#x2212;20&#xb0; C.;</p>
+<p id="p-0032" num="0031"><figref idref="DRAWINGS">FIG. 6</figref><i>c </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/THF (40/60) at the following gelation temperature: &#x2212;70&#xb0; C.;</p>
+<p id="p-0033" num="0032"><figref idref="DRAWINGS">FIG. 6</figref><i>d </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/THF (40/60) at the following gelation temperature: in liquid nitrogen;</p>
+<p id="p-0034" num="0033"><figref idref="DRAWINGS">FIG. 7</figref><i>a </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/acetic acid/water (64/16/20) at the following gelation temperature: &#x2212;20&#xb0; C.;</p>
+<p id="p-0035" num="0034"><figref idref="DRAWINGS">FIG. 7</figref><i>b </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/acetic acid/water (64/16/20) at the following gelation temperature: &#x2212;70&#xb0; C.;</p>
+<p id="p-0036" num="0035"><figref idref="DRAWINGS">FIG. 7</figref><i>c </i>is a SEM micrograph of PA-6,6 foam prepared from a 5% PA-6,6 solution in a mixed solvent of formic acid/acetic acid/water (64/16/20) at the following gelation temperature: in liquid nitrogen;</p>
+<p id="p-0037" num="0036"><figref idref="DRAWINGS">FIG. 8</figref><i>a </i>is a SEM micrograph of PA-6,6/PA-6 (50/50) polymer blend foam prepared from a 5% PA-6,6/PA-6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature: &#x2212;20&#xb0; C.;</p>
+<p id="p-0038" num="0037"><figref idref="DRAWINGS">FIG. 8</figref><i>b </i>is a SEM micrograph of PA-6,6/PA-6 (50/50) polymer blend foam prepared from a 5% PA-6,6/PA-6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature: &#x2212;70&#xb0; C.;</p>
+<p id="p-0039" num="0038"><figref idref="DRAWINGS">FIG. 8</figref><i>c </i>is a SEM micrograph of PA-6,6/PA-6 (50/50) polymer blend foam prepared from a 5% PA-6,6/PA-6 solution in a mixed solvent of formic acid/water (70/30) at the following gelation temperature: in liquid nitrogen;</p>
+<p id="p-0040" num="0039"><figref idref="DRAWINGS">FIG. 9</figref><i>a </i>is a SEM micrograph of PA-6 foam prepared from a 5% PA-6 solution in a mixed solvent of acetic acid/water (60/40) at the following gelation temperature: &#x2212;20&#xb0; C.;</p>
+<p id="p-0041" num="0040"><figref idref="DRAWINGS">FIG. 9</figref><i>b </i>is a SEM micrograph of PA-6 foam prepared from a 5% PA-6 solution in a mixed solvent of acetic acid/water (60/40) at the following gelation temperature: in liquid nitrogen, at &#xd7;500 magnification;</p>
+<p id="p-0042" num="0041"><figref idref="DRAWINGS">FIG. 9</figref><i>c </i>is a SEM micrograph of PA-6 foam prepared from a 5% PA-6 solution in a mixed solvent of acetic acid/water (60/40) at the following gelation temperature: in liquid nitrogen, at &#xd7;2000 magnification;</p>
+<p id="p-0043" num="0042"><figref idref="DRAWINGS">FIG. 9</figref><i>d </i>is a SEM micrograph of PA-6 foam prepared from a 5% PA-6 solution in a mixed solvent of acetic acid/water (60/40) at the following gelation temperature: in liquid nitrogen, at &#xd7;2000 magnification;</p>
+<p id="p-0044" num="0043"><figref idref="DRAWINGS">FIG. 10</figref><i>a </i>is a SEM micrograph of porous PVDF material prepared with PVDF solution in DMSO, phase-separation temperature of &#x2212;18&#xb0; C., low magnification;</p>
+<p id="p-0045" num="0044"><figref idref="DRAWINGS">FIG. 10</figref><i>b </i>is a SEM micrograph of porous PVDF material prepared with PVDF solution in DMSO, phase-separation temperature of &#x2212;18&#xb0; C., intermediate magnification;</p>
+<p id="p-0046" num="0045"><figref idref="DRAWINGS">FIG. 10</figref><i>c </i>is a SEM micrograph of porous PVDF material prepared with PVDF solution in DMSO, phase-separation temperature of &#x2212;18&#xb0; C., high magnification;</p>
+<p id="p-0047" num="0046"><figref idref="DRAWINGS">FIG. 10</figref><i>d </i>is a SEM micrograph of porous PVDF material prepared with PVDF solution in DMSO, phase-separation temperature of &#x2212;70&#xb0; C., low magnification; and</p>
+<p id="p-0048" num="0047"><figref idref="DRAWINGS">FIG. 10</figref><i>e </i>is a SEM micrograph of porous PVDF material prepared with PVDF solution in DMSO, phase-separation in liquid nitrogen, low magnification.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0005" level="1">DETAILED DESCRIPTION OF THE EMBODIMENTS</heading>
+<p id="p-0049" num="0048">It would be desirable to provide highly porous structures having large pore sizes and high specific surface areas. It would further be desirable to provide such structures which are mechanically strong. Still further, it would be desirable to provide a variety of architectures, including but not limited to nano fibrous, micro fibrous, non fibrous, complex porous structure with nano fibrous architecture, and the like.</p>
+<p id="p-0050" num="0049">The present invention is predicated upon the unexpected and fortuitous discovery that a recently discovered phase separation technique may be utilized to render highly porous, mechanically strong, high surface areas materials having varied architectures (e.g. nano fibrous, micro fibrous, non fibrous, complex porous structure with nano fibrous architecture) by using non-degradable polymers. The novel materials of the present invention may have pore sizes ranging between about 30 &#x3bc;m and about 300 &#x3bc;m, with similarly sized connections. In contrast, it had been expected that, whatever polymer was used, if the process as disclosed in U.S. Pat. No. 6,146,892 were followed, it would render primarily nanofibrous structures. Further, it had been expected that if a non-nanofibrous structure were created, it may not be as mechanically strong as desirable for certain applications.</p>
+<p id="p-0051" num="0050">High surface areas are very desirable in that, if a material has a very high surface area, less of the material (compared to a low surface area material) may be used in order to render the same result; i.e. the reaction is more efficient.</p>
+<p id="p-0052" num="0051">Some exemplary polymers suitable for the present invention comprise at least one of natural or synthetic hydrophilic polymers, natural or synthetic hydrophobic polymers, natural or synthetic amphiphilic polymers, and mixtures thereof.</p>
+<p id="p-0053" num="0052">Some exemplary, non-limitative water soluble (hydrophilic) polymers include polyvinyl alcohol, polyethylene oxide, polymethacrylic acid (PMAA), polyacrylic acid, polyethylene glycol, alginate, collagen, gelatin, hyaluronic acid, and mixtures thereof. It is to be understood that the natural macromolecules such as alginate, collagen, gelatin and hyaluronic acid are generally not degradable unless treated with appropriate enzymes.</p>
+<p id="p-0054" num="0053">Some exemplary, non-limitative water insoluble (hydrophobic) polymers include polytetrafluoroethylene (PTFE), polyvinylchloride (PVC), polyamides (PA, Nylons), polyethylenes (PE), polysulfones, polyethersulphone, polypropylenes (PP), silicon rubbers, polystyrenes, polycarbonates, polyesters, polyacrylonitrile (PAN), polyimides, polyetheretherketone (PEEK), polymethylmethacrylate (PMMA), polyvinylacetate (PVAc), polyphenylene oxide, cellulose and its derivatives, polypropylene oxide (PPO), polyvinylidene fluoride (PVDF), polybutylene, and mixtures thereof.</p>
+<p id="p-0055" num="0054">It is to be understood that any suitable solvents may be used in the present invention, provided that the solvent(s) performs suitably within the context of the present inventive method. In an embodiment of the present invention, the solvent comprises at least one of water, acetic acid, formic acid, tetrahydrofuran (THF), dimethylsulfoxide (DMSO), dioxane, benzene, and mixtures thereof.</p>
+<p id="p-0056" num="0055">The dissolution/precipitation process is one of the most frequently used techniques to manufacture membrane materials. See, Young, T. H., L. P. Cheng, D. J. Lin, L. Fane, and W. Y. Chuang, <i>Mechanisms of PVDF membrane formation by immersion</i>-<i>precipitation in soft </i>(1-<i>octanol</i>) <i>and harsh </i>(<i>water</i>) <i>nonsolvents</i>, Polymer, 1999, 40(19): p. 5315-5323. In that technique, a polymer is first dissolved in a good solvent and cast on a substrate. The cast material is then immersed in a non-solvent or poor solvent for the polymer to induce polymer precipitation from the solution. Industrial membranes fabricated with such techniques have a specific surface area typically lower than 5 m<sup>2</sup>/g (see Meier-Haack, J., W. Lenk, S. Berwald, T. Rieser, and K. Lunkwitz, <i>Influence of thermal treatment on the pervaporation separation properties of polyamide</i>-6 <i>membranes</i>, Separation and Purification Technology, 2000. 19(3): p. 199-207), and typically with an intermediate or low porosity (70% or lower).</p>
+<p id="p-0057" num="0056">The inventor of the present invention has recently developed a novel phase-separation technique to generate porous polymeric materials (porosity is typically higher than 80 or 90%) with a unique nano fibrous structure (an average fiber diameter ranging from 50 nm to 500 nm). See Ma, P. X. and R. Zhang, <i>Fibrillar Matrices</i>, in U.S. Pat. No. 6,146,892, 2000, which Patent is incorporated by reference herein in its entirety; Zhang, R. and P. X. Ma, <i>Synthetic nano</i>-<i>fibrillar extracellular matrices with predesigned macroporous architectures</i>, J Biomed Mater Res, 2000, 52(2): p. 430-438; and Zhang, R. and P. X. Ma, <i>Fabrication of polymer scaffolds: Phase separation</i>, in <i>Methods of Tissue Engineering</i>, A. Atala and R. Lanza, Editors, 2001, Academic Press: San Diego, Calif. (in press).</p>
+<p id="p-0058" num="0057">With the new techniques, dissolution/gelation (phase-separation)/solvent exchange (may be optional)/freezing/freeze-drying are some illustrative sequences to create the porous nano fibrous structure.</p>
+<p id="p-0059" num="0058">In contrast, as stated hereinabove, the present invention has unexpectedly and fortuitously discovered new porous polymeric materials with a variety of porous architectures (e.g., nano fibrous, micro fibrous, or non fibrous, or complex porous structure with nano fibrous architecture) and very high surface areas, which are fabricated with the new techniques. Their structures and properties generally depend on either the polymer/solvent systems and/or the phase-separation conditions; such as type of polymer(s), type of solvent(s), mixture ratio of two or more types of polymer(s) and/or solvent(s), polymer concentration, phase-separation temperature and so forth.</p>
+<p id="p-0060" num="0059">This invention discloses polymeric (or substantially polymeric) materials with very high surface areas, such as &#x3e;5 m<sup>2</sup>/g, &#x3e;10 m<sup>2</sup>/g, &#x3e;20 m<sup>2</sup>/g, &#x3e;50 m<sup>2</sup>/g, or much higher, and having high porosity such as 70%, 80%, 90% or even higher, using the new fabrication techniques.</p>
+<p id="p-0061" num="0060">In an embodiment, the novel materials of the present invention have a specific surface area ranging between about 5 m<sup>2</sup>/g and about 1000 m<sup>2</sup>/g. In an alternate embodiment, the materials have a specific surface area ranging between about 10 m<sup>2</sup>/g and about 500 m<sup>2</sup>/g. In yet another alternate embodiment, the materials have a specific surface area ranging between about 20 m<sup>2</sup>/g and about 200 m<sup>2</sup>/g.</p>
+<p id="p-0062" num="0061">The novel materials of the present invention may have pore sizes ranging between about 30 &#x3bc;m and about 300 &#x3bc;m, with similarly sized connections. In an alternate embodiment, the novel materials of the present invention may have pore sizes ranging between about 50 &#x3bc;m and about 100 &#x3bc;m, with similarly sized connections.</p>
+<p id="p-0063" num="0062">The polymers may be synthetic or natural. They may be homopolymers (with one structural unit) or copolymers (with two or more structural units). The copolymers may be random copolymers, block copolymers, graft copolymers, and/or mixtures thereof. They may be one single polymer type or polymer blends. The materials may also be a composite of polymeric and non-polymeric materials. Further, it is to be understood that chemically or biologically active or inert materials may be involved as additives or as major components. These polymers may be physically, chemically, and/or biologically modified to improve certain properties or function. It is to be yet further understood that such modification may be carried out before fabrication (raw materials) or after fabrication of the porous materials.</p>
+<p id="h-0006" num="0000">Fabrication Techniques</p>
+<p id="h-0007" num="0000">1. Polymer Solution Preparation</p>
+<p id="p-0064" num="0063">Accurately weighed polymer(s) was added into a flask, and calculated amount of solvent(s) was added into the flask to make a polymer solution of a desired concentration. In an embodiment, the polymer solution (polymer/solvent mixture) contains between about 1% and about 20% polymer. Typically, the polymers were dissolved for two hours or longer to ensure a homogeneous solution when stirred with a magnetic stirrer at either room temperature or an elevated temperature (at or higher than room temperature, for example, 20&#xb0; C., 40&#xb0; C., 50&#xb0; C., 60&#xb0; C., 70&#xb0; C. and so forth).</p>
+<p id="h-0008" num="0000">2. Porous Polymer Material Fabrication</p>
+<p id="p-0065" num="0064">Typically, four processing steps were taken to prepare a porous polymer material from a polymer solution: (A) Polymer solution (typically pre-warmed to a temperature at or higher than room temperature, for example, 20&#xb0; C., 40&#xb0; C., 50&#xb0; C., 60&#xb0; C., 70&#xb0; C., 100&#xb0; C. and so forth) was added into a mold or container (e.g., Teflon vial). The mold containing the polymer solution was then rapidly transferred into a cooling device (e.g. a refrigerator or freezer) at a preset temperature to induce gelation. The cooling device is maintained at a predetermined temperature between about room temperature and about liquid nitrogen. The gelation time depended on temperature, solvent(s) and the polymer concentration of the solution. After gelation, the gel was kept at the gelling temperature for typically 2 hours or longer. (B) The mold containing the gel was immersed in a liquid (poor or non-solvent for the polymer) such as distilled water for solvent exchange. The water (or other liquid) was changed three times a day for two days. (C) The gel was removed from the water (or other liquid) and blotted by a piece of filter paper, and then was placed in a device set at a desired freezing temperature, the freezing temperature ranging between about room temperature and about liquid nitrogen. In an embodiment, the freezing temperature ranges between about room temperature and about &#x2212;20&#xb0; C. In an alternate embodiment, the freezing temperature ranges between about room temperature and about &#x2212;70&#xb0; C. The gel was frozen for typically 2 hours or longer. (D) The frozen gel was taken into a freeze-drying vessel, and was freeze-dried under a predetermined vacuum and at a predetermined temperature. It is to be understood that any suitable vacuum and temperature may be used; however, in an embodiment, a vacuum lower than 0.5 mmHg was used at a temperature ranging between about &#x2212;5&#xb0; C. and about &#x2212;10&#xb0; C. The frozen gel was freeze dried in an ice/salt bath for one week. The dried porous polymer material was then kept in a desiccator until characterization.</p>
+<p id="h-0009" num="0000">Characterization</p>
+<p id="p-0066" num="0065">The morphologies of the porous materials were examined with scanning electron microscopy (SEM) (S-3200N, Hitachi, Japan) at 15 kV. The samples were coated with gold using a sputter coater (Desk-II, Denton Vacuum Inc.) for 200 seconds with a gas pressure of lower than about 50 mtorr and a current of about 40 mA.</p>
+<p id="p-0067" num="0066">The compressive mechanical properties of the scaffolds were measured with an MTS mechanical tester (Model: Synergie 200, MTS Systems Corporation, Cary, N.C.). Cubic specimens with a side length of 5 mm were compressed with a cross-head speed of 0.5 mm/min. The compressive modulus was determined from the initial linear region of the stress-strain curve, and the yield strength was determined from the cross point of the two tangents on the stress-strain curve around the yield point. At least six specimens were tested for each sample, and the averages and standard deviations were calculated.</p>
+<p id="p-0068" num="0067">To further illustrate the present invention, the following examples are given. It is to be understood that these examples are provided for illustrative purposes and are not to be construed as limiting the scope of the present invention.</p>
+<heading id="h-0010" level="1">EXAMPLES</heading>
+<p id="h-0011" num="0000">1. PA-6,6 in Acetic Acid and Water:</p>
+<p id="p-0069" num="0068">PA-6,6 was completely dissolved in pure acetic acid or acetic acid/water mixture with water content ranging from 10 to 30%. The gelation of the solution was observed when water content was higher than 20%. The gelation occurred when the temperature was from room temperature to liquid nitrogen. The typical morphologies of the resulting porous foams are shown in <figref idref="DRAWINGS">FIGS. 1</figref><i>a</i>-<b>1</b><i>d</i>. <figref idref="DRAWINGS">FIGS. 1</figref><i>a </i>and <b>1</b><i>b </i>are partially nano fibrous; and <figref idref="DRAWINGS">FIGS. 1</figref><i>c </i>and <b>1</b><i>d </i>are non fibrous.</p>
+<p id="h-0012" num="0000">2. PA-6,6 in Formic Acid and Water:</p>
+<p id="p-0070" num="0069">PA-6,6 was completely dissolved in pure formic acid or a mixture of formic acid and water with water content ranging from 0% to 35%. When the concentration of the polymer was higher than 10%, gelation was observed when the water content of the solvent was higher than 20% and the temperature was lower than &#x2212;20&#xb0; C. For the polymer concentration lower than 5%, gelation was observed when water content was higher than 30%. The gelation was observed in a temperature range from &#x2212;20&#xb0; C. to liquid nitrogen. The liquid used for solvent exchange was either water or tetrahydrofuran (THF). The typical morphologies of the foams are shown in <figref idref="DRAWINGS">FIGS. 2</figref><i>a </i>through <b>5</b><i>d</i>. <figref idref="DRAWINGS">FIGS. 2</figref><i>a </i>and <b>2</b><i>b </i>are partially nano fibrous. <figref idref="DRAWINGS">FIGS. 2</figref><i>c </i>and <b>2</b><i>d </i>have morphologies including several different structures. <figref idref="DRAWINGS">FIGS. 3</figref><i>a </i>and <b>3</b><i>b </i>are non fibrous. <figref idref="DRAWINGS">FIGS. 3</figref><i>c </i>and <b>3</b><i>d </i>are partially nano fibrous. <figref idref="DRAWINGS">FIGS. 4</figref><i>a</i>, <b>4</b><i>b </i>and <b>4</b><i>c </i>are complex porous structure with nano fibrous architecture. <figref idref="DRAWINGS">FIG. 4</figref><i>d </i>is a spherical structure. <figref idref="DRAWINGS">FIGS. 5</figref><i>a</i>-<b>5</b><i>d </i>are non fibrous.</p>
+<p id="h-0013" num="0000">3. PA-6,6 in Formic Acid and tetrahydrofuran (THF):</p>
+<p id="p-0071" num="0070">PA-6,6 was completely dissolved in formic acid/THF co-solvent with THF content ranging from 5% to 60%. Gelation was observed when THF content was 60%. The gelation temperature range was from room temperature to liquid nitrogen. The typical morphologies of the foams are shown in <figref idref="DRAWINGS">FIGS. 6</figref><i>a</i>-<b>6</b><i>d</i>. <figref idref="DRAWINGS">FIGS. 6</figref><i>a</i>-<b>6</b><i>d </i>are partially nano fibrous with interconnect structure and high surface area.</p>
+<p id="h-0014" num="0000">4. PA-6,6 in Formic Acid/Acetic Acid (80/20) and Water:</p>
+<p id="p-0072" num="0071">PA-6,6 was completely dissolved in formic acid/acetic acid (80/20)/water co-solvent with water content ranging from 0% to 30%. Gelation of the solution was observed when the water content was higher than 20%. The gelation temperature was from room temperature to liquid nitrogen. The typical morphologies of the foams are shown in <figref idref="DRAWINGS">FIGS. 7</figref><i>a</i>-<b>7</b><i>c</i>. <figref idref="DRAWINGS">FIG. 7</figref><i>b </i>is non fibrous. <figref idref="DRAWINGS">FIG. 7</figref><i>c </i>is partially nano fibrous.</p>
+<p id="h-0015" num="0000">5. PA-6,6 and PA-6 Blends in Formic Acid and Water:</p>
+<p id="p-0073" num="0072">The gelation was observed for the solution of PA-6,6/PA-6 (50/50) with a mixed solvent of formic acid and water (70/30). The gelation temperature ranged from room temperature to liquid nitrogen. The morphologies of the foams are shown in <figref idref="DRAWINGS">FIGS. 8</figref><i>a</i>-<b>8</b><i>c</i>. <figref idref="DRAWINGS">FIGS. 8</figref><i>a</i>-<b>8</b><i>c </i>are complex porous structures with nano fibrous architecture.</p>
+<p id="h-0016" num="0000">6. PA-6 in Acetic Acid and Water:</p>
+<p id="p-0074" num="0073">PA-6 was completely dissolved in acetic acid/water co-solvent with water content ranging from 0 to 40%. Gelation of the solution was observed when water content was higher than 30%. The gelation temperature was from room temperature to liquid nitrogen. The typical morphologies of the foam are shown in FIG. <b>9</b>. <figref idref="DRAWINGS">FIGS. 9</figref><i>a</i>-<b>9</b><i>d </i>are complex porous structures with nano fibrous architecture.</p>
+<p id="h-0017" num="0000">7. PVDF in Dimethylsulfoxide (DMSO):</p>
+<p id="p-0075" num="0074">PVDF was easily dissolved in DMSO, and gelation occurred at a wide range of temperatures. With the new phase-separation and freeze-drying techniques, porous materials with complex architectures were formed. They had fibrous architecture, and the fibers were further composed of smaller features at the micrometer scale. Typical morphologies are shown in <figref idref="DRAWINGS">FIGS. 10</figref><i>a</i>-<b>10</b><i>e</i>. <figref idref="DRAWINGS">FIGS. 10</figref><i>a</i>-<b>10</b><i>e </i>are micro fibrous.</p>
+<p id="h-0018" num="0000">Mechanical Properties and Specific Surface Area:</p>
+<p id="p-0076" num="0075">In the examples of the present invention described above, the generated highly porous materials have many interesting architectural features, which are novel. They have high potential to be used in a variety of biomedical, industrial and household applications. For many of these applications, a high specific surface area and the mechanical integrity are important.</p>
+<p id="p-0077" num="0076">For some of the porous materials generated (FIG. <b>6</b>), the specific surface area and mechanical properties are characterized. The compressive moduli are 5.22&#xb1;0.77 kPa and 7.36&#xb1;4.11 kPa for a PA-6,6 foam generated from 10% PA-6,6 solution in formic acid/water (70/30) and a PA-6,6 foam generated from 5% PA-6,6 solution in formic acid/THF (40/60) respectively. The mechanical properties for such highly porous materials are excellent.</p>
+<p id="p-0078" num="0077">The specific surface area of a PA-6,6 foam prepared from 5% PA-6,6 solution in formic acid/THF (40/60) is 55 m<sup>2</sup>/g (BTE method), which is substantially higher than those currently on the market (typically lower than 5 m<sup>2</sup>/g).</p>
+<p id="p-0079" num="0078">As disclosed herein, the present invention comprises non-degradable porous materials having very high surface areas, and methods for fabricating the same. A variety of 3D architectures with features at the nanometer and/or micrometer scales may advantageously be generated. The materials may be synthetic polymers, natural macromolecules, or their derivatives. They may be hydrophilic, hydrophobic, or amphiphilic. Further, the materials may be homo-polymers, co-polymers, blends, mixtures, or composites of polymers. The novel porous materials may advantageously be used in a variety of applications including medical devices (eg. artificial kidney, dialysers), matrix materials for chemical reactors, bioreactors, controlled release devices, wound dressings, separation membranes, filters, catalysis systems, absorbents, packaging and insulating materials. Further, the porous materials may be desirable for use as tissue engineering scaffolds for a variety of applications, including implants.</p>
+<p id="p-0080" num="0079">While preferred embodiments, forms and arrangements of parts of the invention have been described in detail, it will be apparent to those skilled in the art that the disclosed embodiments may be modified. Therefore, the description herein is to be considered exemplary rather than limiting, and the true scope of the invention is that defined in the following claims.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A porous material, comprising:
+<claim-text>at least one non-degradable polymer; and </claim-text>
+<claim-text>pores having a size and connections therebetween, wherein the pore sizes range between about 30 &#x3bc;m and about 300 &#x3bc;m, and wherein the connections range in size between about 30 &#x3bc;m and about 300 &#x3bc;m, wherein the porous material porosity is greater than about 80%; </claim-text>
+<claim-text>wherein the porous material is mechanically strong and has a high specific surface area ranging between about 10 m<sup>2</sup>/g and about 1000 m<sup>2</sup>/g, and has an architecture comprising at least one of nano fibrous, micro fibrous, non fibrous, complex porous structure with nano fibrous architecture, and mixtures thereof. </claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. The porous material as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the at least one non-degradable polymer comprises at least one of natural or synthetic hydrophilic polymers, natural or synthetic hydrophobic polymers, natural or synthetic amphiphilic polymers, and mixtures thereof.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The porous material as defined in <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein the at least one non-degradable polymer is a hydrophilic polymer comprising at least one of polyvinyl alcohol, polyethylene oxide, polymethacrylic acid (PMAA), polyacrylic acid, polyethylene glycol, alginate, collagen, gelatin, hyaluronic acid, and mixtures thereof.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The porous material as defined in <claim-ref idref="CLM-00002">claim 2</claim-ref> wherein the at least one non-degradable polymer is a hydrophobic polymer comprising at least one of polytetrafluoroethylene (PTFE), polyvinylchloride (PVC), polyamides (PA, Nylons), polyethylenes (PE), polysulfones, polyethersulphone, polypropylenes (PP), silicon rubbers, polystyrenes, polycarbonates, polyesters, polyacrylonitrile (PAN), polyimides, polyetheretherketone (PEEK), polymethylmethacrylate (PMMA), polyvinylacetate (PVAc), polyphenylene oxide, cellulose and its derivatives, polypropylene oxide (PPO), polyvinylidene fluoride (PVDF), polybutylene, and mixtures thereof.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The porous material as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the porosity is greater than approximately 85%.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The porous material as defined in <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the porosity is greater than approximately 90%.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. The porous material as defined in <claim-ref idref="CLM-00006">claim 6</claim-ref>, wherein the porosity is approximately 98%.</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. The porous material as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the porous material has a specific surface area ranging between about 10 m<sup>2</sup>/g and about 500 m<sup>2</sup>/g.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. The porous material as defined in <claim-ref idref="CLM-00008">claim 8</claim-ref> wherein the porous material has a specific surface area ranging between about 20 m<sup>2</sup>/g and about 200 m<sup>2</sup>/g.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. The porous material as defined in <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the porous material comprises pores having a size and connections therebetween, wherein the pore sizes range between about 50 &#x3bc;m and about 100 &#x3bc;m, and wherein the connections range in size between about 50 &#x3bc;m and about 100 &#x3bc;m.</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A porous material formed by a process, comprising:
+<claim-text>mixing at least one non-degradable polymer with a solvent to provide a polymer/solvent mixture, wherein the at least one non-degradable polymer comprises at least one of natural or synthetic hydrophilic polymers, natural or synthetic hydrophobic polymers, natural or synthetic amphiphilic polymers, and mixtures thereof; </claim-text>
+<claim-text>heating the mixture to a temperature ranging between about room temperature and about 100&#xb0; C.; </claim-text>
+<claim-text>gelling the mixture by rapidly transferring the mixture to a cooling device maintained at a temperature between about room temperature and about liquid nitrogen; and </claim-text>
+<claim-text>treating the gel under predetermined conditions whereby a substantially solvent free porous material is created having a porosity greater than about 85%; </claim-text>
+<claim-text>wherein the resultant porous material is mechanically strong and has a high specific surface area ranging between about 10 m<sup>2</sup>/g and about 1000 m<sup>2</sup>/g, and has an architecture comprising at least one of nano fibrous, micro fibrous, non fibrous, complex porous structure with nano fibrous architecture, and mixtures thereof; </claim-text>
+<claim-text>and wherein the porous material comprises pores having a size and connections therebetween, wherein the pore sizes range between about 30 &#x3bc;m and about 300 &#x3bc;m, and wherein the connections range in size between about 30 &#x3bc;m and about 300 &#x3bc;m. </claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A porous material, comprising:
+<claim-text>at least one non-degradable polymer; and </claim-text>
+<claim-text>pores having a size and connections therebetween, wherein the pore sizes range between about 30 &#x3bc;m and about 300 &#x3bc;m, and wherein the connections range in size between about 30 &#x3bc;m and about 300 &#x3bc;m, wherein the porous material porosity is greater than about 80%; </claim-text>
+<claim-text>wherein the porous material is mechanically strong and has a high specific surface area ranging between about 10 m<sup>2</sup>/g and about 1000 m<sup>2</sup>/g, and has an architecture comprising at least one of micro fibrous, non fibrous, and mixtures thereof.</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-grant SYSTEM "us-patent-grant-v40-2004-12-02.dtd" [ ]>
+<us-patent-grant lang="EN" dtd-version="v40 2004-12-02" file="US06979701-20051227.XML" status="PRODUCTION" id="us-patent-grant" country="US" date-produced="20051212" date-publ="20051227">
+<us-bibliographic-data-grant>
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>06979701</doc-number>
+<kind>B2</kind>
+<date>20051227</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>10432629</doc-number>
+<date>20011205</date>
+</document-id>
+</application-reference>
+<us-application-series-code>10</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2000-374134</doc-number>
+<date>20001208</date>
+</priority-claim>
+<priority-claim sequence="02" kind="national">
+<country>JP</country>
+<doc-number>2001-113465</doc-number>
+<date>20010412</date>
+</priority-claim>
+</priority-claims>
+<us-term-of-grant>
+<us-term-extension>126</us-term-extension>
+</us-term-of-grant>
+<classification-ipc>
+<edition>7</edition>
+<main-classification>C08G018/06</main-classification>
+</classification-ipc>
+<classification-national>
+<country>US</country>
+<main-classification>521170</main-classification>
+<further-classification>521128</further-classification>
+<further-classification>521130</further-classification>
+<further-classification>521163</further-classification>
+<further-classification>521174</further-classification>
+</classification-national>
+<invention-title id="d0e89">Thermoplastic polyurethane foam, process for production thereof and polishing pads made of the foam</invention-title>
+<references-cited>
+<citation>
+<patcit num="00001">
+<document-id>
+<country>US</country>
+<doc-number>6239188</doc-number>
+<kind>B1</kind>
+<name>Kihara et al.</name>
+<date>20010500</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>521159</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00002">
+<document-id>
+<country>US</country>
+<doc-number>6777455</doc-number>
+<kind>B2</kind>
+<name>Seyanagi et al.</name>
+<date>20040800</date>
+</document-id>
+</patcit>
+<category>cited by examiner</category>
+<classification-national><country>US</country><main-classification>521110</main-classification></classification-national>
+</citation>
+<citation>
+<patcit num="00003">
+<document-id>
+<country>JP</country>
+<doc-number>8-113664</doc-number>
+<date>19960500</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00004">
+<document-id>
+<country>JP</country>
+<doc-number>11-349680</doc-number>
+<date>19991200</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+<citation>
+<patcit num="00005">
+<document-id>
+<country>JP</country>
+<doc-number>2001-261874</doc-number>
+<date>20010900</date>
+</document-id>
+</patcit>
+<category>cited by other</category>
+</citation>
+</references-cited>
+<number-of-claims>16</number-of-claims>
+<us-exemplary-claim>1</us-exemplary-claim>
+<field-of-search>
+<classification-national>
+<country>US</country>
+<main-classification>521128</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>521130</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>521163</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>521170</main-classification>
+</classification-national>
+<classification-national>
+<country>US</country>
+<main-classification>521174</main-classification>
+</classification-national>
+</field-of-search>
+<figures>
+<number-of-drawing-sheets>0</number-of-drawing-sheets>
+<number-of-figures>0</number-of-figures>
+</figures>
+<us-related-documents>
+<related-publication>
+<document-id>
+<country>US</country>
+<doc-number>20040054023</doc-number>
+<kind>A1</kind>
+<date>20040318</date>
+</document-id>
+</related-publication>
+</us-related-documents>
+<parties>
+<applicants>
+<applicant sequence="001" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Kaneda</last-name>
+<first-name>Shunji</first-name>
+<address>
+<city>Okayama</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>JP</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+<applicant sequence="002" app-type="applicant-inventor" designation="us-only">
+<addressbook>
+<last-name>Okamoto</last-name>
+<first-name>Chihiro</first-name>
+<address>
+<city>Osaka</city>
+<country>JP</country>
+</address>
+</addressbook>
+<nationality>
+<country>JP</country>
+</nationality>
+<residence>
+<country>JP</country>
+</residence>
+</applicant>
+</applicants>
+<agents>
+<agent sequence="01" rep-type="attorney">
+<addressbook>
+<orgname>Oblon, Spivak, McClelland, Maier &#x26; Neustadt, P.C.</orgname>
+<address>
+<country>unknown</country>
+</address>
+</addressbook>
+</agent>
+</agents>
+</parties>
+<assignees>
+<assignee>
+<addressbook>
+<orgname>Kuraray Co., Ltd.</orgname>
+<role>03</role>
+<address>
+<city>Kurashiki</city>
+<country>JP</country>
+</address>
+</addressbook>
+</assignee>
+</assignees>
+<examiners>
+<primary-examiner>
+<last-name>Cooney, Jr.</last-name>
+<first-name>John M.</first-name>
+<department>1711</department>
+</primary-examiner>
+</examiners>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP01/10613</doc-number>
+<kind>00</kind>
+<date>20011205</date>
+</document-id>
+<us-371c124-date>
+<date>20030609</date>
+</us-371c124-date>
+</pct-or-regional-filing-data>
+<pct-or-regional-publishing-data>
+<document-id>
+<country>WO</country>
+<doc-number>WO02/46283</doc-number>
+<kind>A </kind>
+<date>20020613</date>
+</document-id>
+</pct-or-regional-publishing-data>
+</us-bibliographic-data-grant>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The present invention aims to provide a polyurethane foam, suitably usable as a polishing pad, having a uniform foam structure, which can achieve the improvements in the flatness of the surface of polished materials and in the planarization efficiency, and can extend the polishing pad life longer than that of the conventional polyurethane foams. This aim can be achieved by providing a polyurethane foam having a density of 0.5 to 1.0 g/cm<sup>3</sup>, a cell size of 5 to 200 &#x3bc;m and a hardness [JIS-C hardness] of not less than 90, comprising a thermoplastic polyurethane which is obtained by a reaction of a high polymer polyol, an organic diisocyanate and a chain extender, contains not less than 6% by weight of a nitrogen atom derived from the isocyanate group, and has a storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] of not less than 5&#xd7;10<sup>9 </sup>dyn/cm<sup>2</sup>.</p>
+</abstract>
+<description id="description">
+<?BRFSUM description="Brief Summary" end="lead"?>
+<heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+<p id="p-0002" num="0001">The present invention relates to a polyurethane foam having a uniform foam structure, a production process thereof and a polishing pad made of the foam. The polishing pad of the present invention is useful for polishing application for polishing semiconductor wafers and the like with high accuracy and high efficiency.</p>
+<heading id="h-0002" level="1">BACKGROUND ART</heading>
+<p id="p-0003" num="0002">As a polishing pad used for mirror finish of a semiconductor wafer, which is a base material for an integrated circuit, there has been frequently used, in general, a velour-like or suede-like composite material of a fiber and a resin, or a relatively flexible sheet having large compressibility prepared by impregnating a nonwoven fabric with a thermoplastic polyurethane resin and wet coagulating it.</p>
+<p id="p-0004" num="0003">With a recent trend toward the high integration and the multilevel interconnection, demands for a semiconductor wafer which is improved in quality such as higher flatness and which is lower priced have been increasing. Accordingly, polishing pads are also required to have higher performances such as better planarization capability than ever and to be usable for a longer time.</p>
+<p id="p-0005" num="0004">With respect to such a requirement, conventional nonwoven fabric type polishing pads, which are relatively flexible, show good contact with a wafer and good retention of a polishing slurry. However, because of the flexibility, they are not sufficient in the planarization of the polished surface of a wafer. In addition, the voids of the nonwoven fabric may be clogged with the polishing slurry and polishing wastes, which tends to cause the wafer surface to be susceptible to scratches. Further, the polishing slurry and the polishing waste easily penetrate deeply into the voids, which makes it difficult to brush the polishing pad, and which is the cause of the problem that the polishing pad life may be short.</p>
+<p id="p-0006" num="0005">On the other hand, a polishing pad using a polymer foam is also known, and is commonly used for applications, in which planarization is required, such as polishing of wafers, because of its higher rigidity than that of nonwoven fabric type polishing pads. In addition, because the polishing pad using a polymer foam has closed-cell structure, the polishing slurry and the polishing wastes do not penetrate deeply into the voids as with the nonwoven fabric type polishing pad. Therefore, the polishing pad using a polymer foam is relatively easy to dress, and hence it can stand the long-time use. In particular, a polyurethane foam is commonly used as a polymer foam, because of an excellent abrasion resistance.</p>
+<p id="p-0007" num="0006">The polishing pad made of a polyurethane foam is produced, in general, by appropriately grinding or slicing a polyurethane foam. Conventional polyurethane foams for a polishing pad has been produced by foam casting and curing of a two-part type curable polyurethane [see Japanese Patent Application Laid-open Nos. 2000-178374, 2000-248034, 2001-89548, Hei 11-322878, etc.]. However, with this production method, it is difficult to effect the uniform reaction and foaming, and in addition, there is a limit on the increase in hardness of the resulting polyurethane foam. Further, conventional polishing pads made of a polyurethane foam may vary in polishing performance such as the flatness of the polished surface of a wafer and the planarization efficiency. The variation in foam structure of the polyurethane foam, which is the base material, is considered to be a cause of such a problem. Besides, polishing pads with higher hardness are demanded in order to improve the planarization efficiency [see &#x201c;SCIENCE OF CMP&#x201d; issued by Science Forum Inc., on Aug. 20, 1997].</p>
+<heading id="h-0003" level="1">DISCLOSURE OF THE INVENTION</heading>
+<p id="p-0008" num="0007">Under these circumstances, the present invention has been completed. It is therefore an object of the present invention to provide a polyurethane foam having a uniform foam structure, which is useful as a polishing pad capable of achieving the improvements in the flatness of the surface of polished materials and in the planarization efficiency, and capable of extending the polishing pad life longer than that of the conventional polyurethane foams.</p>
+<p id="p-0009" num="0008">The present inventors have made intensive studies to achieve the above-described object and found that a polyurethane foam having high hardness, and a fine and uniform foam structure can be obtained by foaming a specific thermoplastic polyurethane in which a non-reactive gas has been dissolved. Thus, the present invention has been completed.</p>
+<p id="p-0010" num="0009">Namely, the present invention provides a polyurethane foam having a density of 0.5 to 1.0 g/cm<sup>3</sup>, a cell size of 5 to 200 &#x3bc;m and a hardness [JIS-C hardness] of not less than 90, comprising a thermoplastic polyurethane which is obtained by a reaction of a high polymer polyol, an organic diisocyanate and a chain extender, contains not less than 6% by weight of a nitrogen atom derived from the isocyanate group, and has a storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] of not less than 5&#xd7;10<sup>9 </sup>dyn/cm<sup>2</sup>.</p>
+<p id="p-0011" num="0010">The present invention also provides a polyurethane foam having a density of 0.5 to 1.0 g/cm<sup>3 </sup>and a cell size of 5 to 200 &#x3bc;m, obtained by dissolving a non-reactive gas in the above-described thermoplastic polyurethane under a pressurized condition, then releasing the pressure to effect the foaming of the polyurethane at a temperature of not less than the softening temperature thereof.</p>
+<p id="p-0012" num="0011">In addition, the present invention provides a polishing pad made of such a polyurethane foam.</p>
+<p id="p-0013" num="0012">Further, the present invention provides a process for producing a polyurethane foam, which comprises the steps of dissolving a non-reactive gas in a molded product of the above-described thermoplastic polyurethane under the conditions of a pressure of 3 to 15 MPa and a temperature of 50 to 160&#xb0; C. in a pressure vessel; releasing the pressure of the pressure vessel at a temperature lower than the softening temperature of the thermoplastic polyurethane; and heating the molded product, in which the non-reactive gas is dissolved, to a temperature of not less than the softening temperature of the thermoplastic polyurethane to effect the foaming of the molded product. Hereinafter, this process may be referred to as &#x201c;Production process 1&#x201d;.</p>
+<p id="p-0014" num="0013">Furthermore, the present invention provides a process for producing a polyurethane foam, which comprises the steps of dissolving a non-reactive gas in a molded product of the above-described thermoplastic polyurethane under the conditions of a pressure of 3 to 15 MPa and a temperature of 160 to 200&#xb0; C. in a pressure vessel; and releasing the pressure of the pressure vessel to effect the foaming of the molded product, in which the non-reactive gas is dissolved. Hereinafter, this process may be referred to as &#x201c;Production process 2&#x201d;.</p>
+<p id="p-0015" num="0014">Still further, the present invention provides a process for producing a polyurethane foam having a density of 0.5 to 1.0 g/cm<sup>3 </sup>and a cell size of 5 to 200 &#x3bc;m, which comprises the steps of dissolving a non-reactive gas in the above-described thermoplastic polyurethane at a molten state under a pressurized condition; and subjecting the thermoplastic polyurethane, in which the non-reactive gas is dissolved, to extrusion molding or injection molding under the stock pressure allowing the foaming of said polyurethane to give a foamed molded product. Hereinafter, this process may be referred to as &#x201c;Production process 3&#x201d;.</p>
+<p id="p-0016" num="0015">Moreover, the present invention provides a process for producing a polyurethane foam having a density of 0.5 to 1.0 g/cm<sup>3 </sup>and a cell size of 5 to 200 &#x3bc;m, which comprises the steps of dissolving a non-reactive gas in the above-described thermoplastic polyurethane at a molten state under a pressurized condition; subjecting the thermoplastic polyurethane, in which the non-reactive gas is dissolved, to injection molding at a speed such that the stock pressure can be kept within the range under which the foaming is not effected, to give a unfoamed molded product; and heating the unfoamed molded product to a temperature of not less than the softening temperature of the thermoplastic polyurethane to effect the foaming of the molded product. Hereinafter, this process may be referred to as &#x201c;Production process 4&#x201d;.</p>
+<p id="p-0017" num="0016">In addition, the present invention provides a process for producing a polyurethane foam having a density of 0.5 to 1.0 g/cm<sup>3 </sup>and a cell size of 5 to 200 &#x3bc;m which comprises the steps of dissolving a non-reactive gas in the above-described thermoplastic polyurethane at a molten state under a pressurized condition; injecting the thermoplastic polyurethane, in which the non-reactive gas is dissolved, into a mold at a speed such that the stock pressure can be kept within the range under which the foaming is not effected; and increasing the mold cavity to give a foamed molded product. Hereinafter, this process may be referred to as &#x201c;Production process 5&#x201d;.</p>
+<?BRFSUM description="Brief Summary" end="tail"?>
+<?DETDESC description="Detailed Description" end="lead"?>
+<heading id="h-0004" level="1">BEST MODE FOR CARRYING OUT THE INVENTION</heading>
+<p id="p-0018" num="0017">The polyurethane used in the present invention can be prepared by a reaction of a high polymer diol, an organic diisocyanate and a chain extender.</p>
+<p id="p-0019" num="0018">The high polymer diol includes, for example, polyether diols, polyester diols and polycarbonate diols. One or more of these high polymer diols can be used. Among them, preferred are polyether diols.</p>
+<p id="p-0020" num="0019">The polyether diols can include, for example, a poly (ethylene glycol), a poly(propylene glycol), a poly(tetramethylene glycol) and a poly(methyltetramethylene glycol). One or more of these polyether diols can be used. Among them, preferred is a poly(tetramethylene glycol).</p>
+<p id="p-0021" num="0020">The polyester diols can be prepared, for example, by subjecting a diol having a low molecular weight and a dicarboxylic acid or an ester forming derivative thereof such as an ester derivative or an anhydride, to esterification or ester exchange, according to the conventional methods.</p>
+<p id="p-0022" num="0021">The dicarboxylic acid, which constitutes the polyester diols, can include aliphatic dicarboxylic acids having 4 to 12 carbon atoms such as succinic acid, glutaric acid, adipic acid, pimelic acid, suberic acid, azelaic acid, sebacic acid, dodecane dicarboxylic acid, 2-methylsuccinic acid, 2-methyladipic acid, 3-methyladipic acid, 3-methylpenetane dicarboxylic acid, 2-methyloctane dicarboxylic acid, 3,8-dimethyldecane dicarboxylic acid and 3,7-dimethyldecane dicarboxylic acid; aromatic dicarboxylic acids such as terephthalic acid, isophthalic acid and orthophthalic acid; etc. One or more of these dicarboxylic acids can be used.</p>
+<p id="p-0023" num="0022">The diol having low molecular weight, which constitutes the polyester diols, can include aliphatic diols such as ethylene glycol, 1,3-propanediol, 2-methyl-1,3-propanediol, 1,4-butanediol, neopentylglycol, 1,5-pentanediol, 3-methyl-1,5-pentanediol, 1,6-hexanediol, 1,8-octanediol, 2-methyl-1,8-octanediol, 1,9-nonanediol and 1,10-decanediol; cycloaliphatic diols such as cyclohexanedimethanol and cyclohexanediol; etc. One or more of these diols can be used.</p>
+<p id="p-0024" num="0023">The polycarbonate diols can include those obtained by the reaction of a diol having a low molecular weight and a carbonate compound such as a dialkyl carbonate and an alkylene carbonate. The diols having a low molecular weight, which constitutes the polycarbonate diols, can include ones illustrated above as a diol constituting the polyester diols. The dialkyl carbonate can include, for example, dimethyl carbonate and diethyl carbonate. Examples of the alkylene carbonate can include ethylene carbonate.</p>
+<p id="p-0025" num="0024">The number average molecular weight of a high polymer diol falls preferably within the range of 400 to 2000, and more preferably within the range of 500 to 1500. By using a high polymer diol having a number average molecular weight within this range, it is possible to produce effectively a thermoplastic polyurethane with high hardness. When the number average molecular weight of the high polymer diol exceeds 2000, during molding by extrusion molding or injection molding, the viscosity increase may occur in a molding machine, which results a formation of a unmelted matter. This may involve the interruption of the molding operation and the purge of the inside of the molding machine. On the other hand, when the number average molecular weight of the high polymer diol is less than 400, the abrasion resistance of the resulting polyurethane foam tends to be reduced. Here, the number average molecular weight of a high polymer diol referred in this specification means the number average molecular weight calculated based on the hydroxyl value which is determined according to JIS K-1577.</p>
+<p id="p-0026" num="0025">The organic diisocyanate used for the preparation of the thermoplastic polyurethane can include ones conventionally used for the preparation of a thermoplastic polyurethane. Examples of the organic diisocyanate include 4,4&#x2032;-diphenylmethane diisocyanate, toluylene diisocyanate, phenylene diisocyanate, xylylene diisocyanate, hexamethylene diisocyanate, isophorone diisocyanate, 1,5-naphtylene diisocyanate, 4,4-dicyclohexylmethane diisocyanate and the like. One or more of these organic diisocyanates can be used. Among them, preferred is 4,4&#x2032;-diphenylmethane diisocyanate, from the viewpoint of the abrasion resistance of the resulting polyurethane foam.</p>
+<p id="p-0027" num="0026">The chain extender used for the preparation of the thermoplastic polyurethane can include ones conventionally used for the preparation of a thermoplastic polyurethane. Preferred chain extender is a compound having a molecular weight of not more than 300 and having two or more active hydrogen atoms capable of reacting with isocyanate group. Examples of the chain extender can include diols such as ethylene glycol, propylene glycol, 1,4-butanediol, 1,6-hexanediol, 3-methyl-1,5-pentanediol, 1,4-bis (&#x3b2;-hydroxyethoxy)benzene, 1,4-cyclohexanediol, bis (&#x3b2;-hydroxyethyl) terephthalate and 1,9-nonanediol. One or more of these chain extenders can be used.</p>
+<p id="p-0028" num="0027">The polyurethane foam of the present invention can be produced by the foaming of a thermoplastic polyurethane which can be obtained by a reaction of a high polymer diol, an organic diisocyanate and a chain extender, and contains not less than 6% by weight of a nitrogen atom derived from the isocyanate group. The polyurethane foam of the present invention has the density of 0.5 to 1.0 g/cm<sup>3</sup>, the cell size of 5 to 200 &#x3bc;m and the hardness [JIS-C hardness] of not less than 90. When the density of the polyurethane foam is less than 0.5 g/cm<sup>3</sup>, the foam is too flexible. Accordingly, the flatness of the surface of polished materials is reduced, and the polishing efficiency is also reduced. On the other hand, when the density of the polyurethane foam is larger than 1.0 g/cm<sup>3</sup>, the polishing efficiency is reduced. The density of the polyurethane foam preferably falls within the range of 0.65 to 0.85 g/cm<sup>3 </sup>from the viewpoint of the flatness of the surface of polished materials.</p>
+<p id="p-0029" num="0028">In addition, if the cell size of the polyurethane foam is less than 5 &#x3bc;m, the voids of the foam tends to be clogged with the polishing agents contained in the polishing slurry, which may reduce the polishing efficiency and cause a polishing defects such as scratches. On the other hand, if the cell size of the polyurethane foam is larger than 200 &#x3bc;m, the surface smoothness of the foam is reduced, which may cause the localization of the polishing agents, and may cause the polishing defects such as scratches and orange peel flaws. The cell size of the polyurethane foam falls preferably within the range of 20 to 180 &#x3bc;m, and more preferably within the range of 20 to 150 &#x3bc;m from the viewpoint of the retention of the polishing agents.</p>
+<p id="p-0030" num="0029">When the hardness [JIS-C hardness] of the polyurethane foam is lower than 90, the object of the present invention cannot be achieved because the polishing efficiency is not improved. The hardness [JIS-C hardness] of the polyurethane foam is preferably not less than 95, and more preferably not less than 97.</p>
+<p id="p-0031" num="0030">In order to produce a polyurethane foam having above-described density, cell size and hardness, the thermoplastic polyurethane should contain not less than 6% by weight of a nitrogen atom derived from the isocyanate group. From the viewpoint of the hardness and the abrasion resistance of the resulting polyurethane foam, the thermoplastic polyurethane contains preferably 6 to 8.2% by weight, and more preferably 6.5 to 7.5% by weight, of a nitrogen atom derived from the isocyanate group. When a thermoplastic polyurethane containing less than 6% by weight of a nitrogen atom derived from the isocyanate group is used, it is impossible to produce a polyurethane foam having the above-described density, the above-described cell size and the above-described hardness, because the hardness of the thermoplastic polyurethane itself is too low.</p>
+<p id="p-0032" num="0031">A larger number of cells present in the surface of the foam is better for the improvement of the polishing efficiency. However, in general, the increase in number of cells reduces the density of the foam, resulting in a reduction of the hardness of the foam. Accordingly, the polishing efficiency tends to be reduced. In the present invention, the improvement of the polishing efficiency is achieved by increasing the hardness of the polyurethane constituting the foam, which can prevent the reduction in hardness of the foam upon increasing the number of cells.</p>
+<p id="p-0033" num="0032">In addition, the thermoplastic polyurethane should have a storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] of not less than 5&#xd7;10<sup>9 </sup>dyn/cm<sup>2</sup>, in order to produce a polyurethane foam having above-described density, cell size and hardness. When a thermoplastic polyurethane having a storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] of less than 5&#xd7;10<sup>9 </sup>dyn/cm<sup>2 </sup>is used, it is impossible to produce a polyurethane foam having the above-described density, the above-described cell size and the above-described hardness, because the hardness of the thermoplastic polyurethane itself is too low. The thermoplastic polyurethane has preferably a storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] of not less than 9&#xd7;10<sup>9 </sup>dyn/cm<sup>2</sup>.</p>
+<p id="p-0034" num="0033">The ratio [E&#x2032;<sub>0</sub>/E&#x2032;<sub>50</sub>] of the storage elastic modulus of the thermoplastic polyurethane measured at 0&#xb0; C. [E&#x2032;<sub>0</sub>] based on the storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] is preferably not more than 1.8. The thermoplastic polyurethane satisfying such a condition has a small temperature dependence of its own hardness. Therefore, the hardness of the polyurethane foam also has a small temperature dependence. As a result, the reduction in the flatness of the surface of polished materials during the polishing operation and the reduction in the polishing efficiency are suppressed. The ratio [E&#x2032;<sub>0</sub>/E&#x2032;<sub>50</sub>] of the storage elastic modulus of the thermoplastic polyurethane measured at 0&#xb0; C. [E&#x2032;<sub>0</sub>] based on the storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] is more preferably not more than 1.5.</p>
+<p id="p-0035" num="0034">Further, the melting peak temperature of the thermoplastic polyurethane is preferably not more than 200&#xb0; C. By using the thermoplastic polyurethane having a melting peak temperature of not more than 200&#xb0; C., it is possible to produce a polyurethane foam having no defective portion in the inside, and having a uniform foam structure with ease.</p>
+<p id="p-0036" num="0035">The amounts of the above described components, which constitute the thermoplastic polyurethane, is determined according to the abrasion resistance, the desired properties of the resulting thermoplastic polyurethane, and so on. Each component is preferably used in an amount where the isocyanate group of the organic diisocyanate is present at a ratio of 0.95 to 1.3 moles based on 1 mole of the total active hydrogen atoms of the high polymer diol and the chain extender. When the isocyanate group of the organic diisocyanate is present at a ratio of lower than 0.95 moles based on 1 mole of the total active hydrogen atoms, the mechanical strength and the abrasion resistance of the resulting polyurethane foam is reduced. On the other hand, when the isocyanate group of the organic diisocyanate is present at a ratio of higher than 1.3 moles based on 1 mole of the total active hydrogen atoms, the productivity and the storage stability of the thermoplastic polyurethane tends to be reduced.</p>
+<p id="p-0037" num="0036">The thermoplastic polyurethane can be prepared from the above-described three components according to the conventional urethane forming technics. The thermoplastic polyurethane can be prepared by either &#x201c;prepolymer process&#x201d; or &#x201c;one-shot process&#x201d;. The thermoplastic polyurethane is preferably prepared by a melt polymerization substantially in the presence of no solvent. The polyurethane is prepared, more preferably, by a continuous melt polymerization with a multi-screw extruder.</p>
+<p id="p-0038" num="0037">The polyurethane foam of the present invention can be produced by foaming the above-described thermoplastic polyurethane. Upon foaming, non-reactive gases are preferably employed as a foaming agent. Here, the non-reactive gas means a gas which is not reactive with a thermoplastic polyurethane or a component used for the preparation of a thermoplastic polyurethane. The non-reactive gases include, for example, nitrogen, carbon dioxide, argon and helium. Among them, carbon dioxide or nitrogen is preferable, from the viewpoint of the solubility to a thermoplastic polyurethane and the production cost of the polyurethane foam.</p>
+<p id="p-0039" num="0038">The polyurethane foam of the present invention can be produced by dissolving the above-described non-reactive gas in the above-described thermoplastic polyurethane under a pressurized condition, then releasing the pressure to effect the foaming of the polyurethane at a temperature of not less than the softening temperature thereof. From the viewpoint of producing a polyurethane foam having a uniform foam structure, the amount of the non-reactive gas dissolved in the thermoplastic polyurethane is desired to be the amount of saturation at the condition under which the dissolution is effected.</p>
+<p id="p-0040" num="0039">The use of a sheet-like molded product as the thermoplastic polyurethane for dissolving the non-reactive gas therein is advantageous in that the production of the foam having a uniform foam structure is easy, in that the step for making a polishing pad can be simplified, and in other respects. The preferred sheet-like molded products are the ones molded by means of extrusion molding machines such as a single screw extruder and a twin screw extruder, or an injection molding machine. The thickness of the sheet-like molded product preferably falls within the range of 0.8 to 5 mm from the viewpoint of the ease of producing the foam and the length of time required for dissolving the non-reactive gas therein.</p>
+<p id="p-0041" num="0040">Here, the process for producing a foamed article by dissolving a gas in a thermoplastic resin or a molded product thereof, and then reducing the pressure is disclosed in the U.S. Pat. No. 4,473,665, Japanese Patent Application Laid-open Nos. Hei 6-322168, Hei 8-11190, Hei 10-36547, 2000-169615 and 2000-248101, and the like. However, no specific example is known in which the process is applied for the production of the foam of the above-described specific thermoplastic polyurethane.</p>
+<p id="p-0042" num="0041">The polyurethane foam of the present invention can be produced by the process comprising dissolving a non-reactive gas in a molded product of the thermoplastic polyurethane under the conditions of a pressure of 3 to 15 MPa and a temperature of 50 to 160&#xb0; C. in a pressure vessel, releasing the pressure of the pressure vessel at a temperature of lower than the softening temperature of the thermoplastic polyurethane, and heating the molded product to a temperature of not less than the softening temperature of the thermoplastic polyurethane to effect the foaming of the molded product [Production process 1].</p>
+<p id="p-0043" num="0042">Although depending on the composition of the thermoplastic polyurethane, the cell size of the resulting foam is determined by the amount of the non-reactive gas dissolved. The amount of the non-reactive gas dissolved can be controlled by the pressure and the temperature under which the dissolution is effected. When the pressure during the dissolution of the non-reactive gas is less than 3 MPa, a long time is required for dissolving the amount of saturation of the non-reactive gas in the molded product of the polyurethane. On the other hand, when the pressure during the dissolution of the non-reactive gas exceeds 15 MPa, the time required for dissolving the non-reactive gas is made short, but the cell size of the resulting foam becomes remarkably small because the amount of the gas dissolved grows larger than necessary. The pressure during the dissolution of the non-reactive gas preferably falls within the range of 5 to 14 MPa. Whereas, when the temperature during the dissolution of the non-reactive gas is less than 50&#xb0; C., a long time is required for dissolving the amount of saturation of the non-reactive gas in the molded product of the polyurethane. On the other hand, when the temperature during the dissolution of the non-reactive gas exceeds 160&#xb0; C., partial foaming occurs upon releasing the pressure of the pressure vessel, or the cell size of the resulting foam becomes too large because the amount of the non-reactive gas dissolved is remarkably small. The temperature during the dissolution of the non-reactive gas preferably falls within the range of 80 to 140&#xb0; C.</p>
+<p id="p-0044" num="0043">When the temperature at which the molded product, in which the non-reactive gas is dissolved, is heated after the release of the pressure is less than the softening temperature of the polyurethane, the formation and the growth of the cells become insufficient. The temperature at which the molded product, in which the non-reactive gas is dissolved, is heated preferably falls within the range of (T+10)&#xb0; C. to (T+40)&#xb0; C., where T means the softening temperature of the polyurethane, from the viewpoint of the size of the resulting cell and the strength of the foam. The method for heating and foaming is not restricted. However, the method where a heat is uniformly applied to the molded product, in which the non-reactive gas is dissolved, is preferred from the viewpoint of ensuring the uniformity of the foam structure. Examples of the method for heating and foaming can include a method in which the molded product is allowed to pass through a heating medium such as hot water, a hot oil bath, hot air or water vapor.</p>
+<p id="p-0045" num="0044">Alternatively, the polyurethane foam of the present invention can be produced by the process comprising dissolving a non-reactive gas in a molded product of the thermoplastic polyurethane under the conditions of a pressure of 5 to 15 MPa and a temperature of 160 to 200&#xb0; C. in a pressure vessel, and releasing the pressure of the pressure vessel to atmospheric pressure from the pressurized condition to effect the foaming of the molded product [Production process 2].</p>
+<p id="p-0046" num="0045">Although depending on the composition of the thermoplastic polyurethane, the cell size of the resulting foam is determined by the amount of the non-reactive gas dissolved. The amount of the non-reactive gas dissolved can be controlled by the pressure and the temperature under which the dissolution is effected. When the pressure during the dissolution of the non-reactive gas is less than 5 MPa, a long time is required for dissolving the amount of saturation of the non-reactive gas in the molded product of the polyurethane. On the other hand, when the pressure during the dissolution of the non-reactive gas exceeds 15 MPa, the time required for dissolving the non-reactive gas is made short, but the cell size of the resulting foam becomes remarkably small because the amount of the gas dissolved grows larger than necessary. The pressure during the dissolution of the non-reactive gas preferably falls within the range of 7 to 14 MPa. Whereas, when the temperature at which the dissolution of the non-reactive gas, the release of the pressure and the foaming of the molded product are effected is less than 160&#xb0; C., a long time is required for dissolving the amount of saturation of the non-reactive gas in the molded product of the polyurethane. In addition, the formation and the growth of the cells become insufficient. On the other hand, when said temperature is higher than 200&#xb0; C., variation of the size of the resulting cell and deformation of the resulting foam are observed. The temperature at which the foaming of the molded product is effected preferably falls within the range of (T+20)&#xb0; C. to (T+50)&#xb0; C., where T means the softening temperature of the polyurethane.</p>
+<p id="p-0047" num="0046">In addition, the polyurethane foam of the present invention can be produced by the process comprising dissolving a non-reactive gas in the thermoplastic polyurethane at a molten state under a pressurized condition and subjecting the resulting thermoplastic polyurethane to extrusion molding or injection molding [Production Processes 3 to 5].</p>
+<p id="p-0048" num="0047">With respect to these processes, the temperature for melting the thermoplastic polyurethane preferably falls within a range of 170 to 250&#xb0; C. When the temperature for melting the thermoplastic polyurethane is less than 170&#xb0; C., the polyurethane is not substantially plasticized, which may make it difficult to melt the thermoplastic polyurethane upon kneading with a screw in the cylinder of an extruder. On the other hand, when the temperature for melting the thermoplastic polyurethane exceeds 250&#xb0; C., thermally decomposed products and unmelted matters such as gel-like matters may be formed. As a result, it may be difficult to produce a foam having a uniform foam structure. The temperature for melting the thermoplastic polyurethane preferably falls within the range of 180 to 240&#xb0; C.</p>
+<p id="p-0049" num="0048">The pressure at the dissolution of the non-reactive gas in the thermoplastic polyurethane at a molten state falls within the range of preferably 3 to 20 MPa, and more preferably 5 to 18 MPa. When the pressure during the dissolution of the non-reactive gas is less than 3 MPa, the amount of the non-reactive gas dissolved in the polyurethane at a molten state is small and, therefore, it tends to become substantially difficult to produce a foam. On the other hand, when the pressure during the dissolution of the non-reactive gas exceeds 20 MPa, the cell size of the resulting foam may become too small.</p>
+<p id="p-0050" num="0049">In the case where the polyurethane foam is produced by extrusion molding, it is important to employ the conditions under which the thermoplastic polyurethane at a molten state and the non-reactive gas are mixed together in the cylinder of an extruder; the resulting mixture is kept unfoamed in the cylinder of an extruder and in the die; and the foaming is effected by the extrusion of the mixture into air from the die outlet. If the foaming is effected in the cylinder of an extruder or in the die, the size of the resulting cell may be large, which makes it difficult to produce a foam having a uniform and fine foam structure. Therefore, it is important to employ the conditions under which the non-reactive gas is introduced into the cylinder of an extruder, preferably into the mid-part of the cylinder, and the stock pressure is kept within the extent such that the foaming is not effected at the part between the die outlet, from which the thermoplastic polyurethane is extruded, and the site where the non-reactive gas is introduced. The stock pressure is preferably kept within the range of 3 to 20 MPa at the part between the die outlet and the site where the non-reactive gas is introduced. Further, if the viscosity of the thermoplastic polyurethane at a molten state, in which the non-reactive gas is dissolved, is low, when extruded from the die outlet, the resulting cells may be huge or broken. In order to produce a foam having a uniform and fine foam structure, it is preferably to employ the conditions under which the thermoplastic polyurethane at a molten state, in which the non-reactive gas is dissolved, can be substantially extruded. In the production process of the polyurethane foam of the present invention, the temperature of the polyurethane at the die outlet is preferably set within the range of 170 to 200&#xb0; C. in order to produce a foam having a uniform and fine foam structure.</p>
+<p id="p-0051" num="0050">The polyurethane foam can be produced by common extrusion molding methods such as a T-die extrusion method, a profile extrusion method and a tube extrusion method. Among them, the T-die extrusion method is preferred because sheet-like molded products having a uniform thickness can be produced with ease.</p>
+<p id="p-0052" num="0051">In the case where the polyurethane foam is produced by injection molding, if the foaming is effected in the injection cylinder, the size of the resulting cell may be large, which makes it difficult to produce a foam having a uniform and fine foam structure. Therefore, it is important to employ the conditions under which the non-reactive gas is introduced into the injection cylinder, preferably into the mid-part of the cylinder, and the stock pressure is kept within the extent such that the foaming is not effected at the part between the injection nozzle and the site where the non-reactive gas is introduced. The stock pressure is preferably kept within the range of 3 to 20 MPa at the part between the injection nozzle and the site where the non-reactive gas is introduced.</p>
+<p id="p-0053" num="0052">As the method for the injection molding of the thermoplastic polyurethane at a molten state, in which the non-reactive gas is dissolved, following methods can be employed.
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0053">(1) A method in which the thermoplastic polyurethane at a molten state is injected in a mold under a low speed condition, under which the stock pressure is, during the injection, reduced to the pressure allowing the foaming, and a foam is produced in the mold simultaneously with the injection [Production Process 3];</li>
+    <li id="ul0001-0002" num="0054">(2) A method in which the thermoplastic polyurethane at a molten state is injected in a mold under a high speed condition, under which the stock pressure is, during the injection, kept to the extent such that the foaming is not effected; and cooled while keeping the stock pressure as above to give a unfoamed molded product; and then the molded product is subjected to the foaming by a heat treatment at a temperature of not less than the softening temperature of the thermoplastic polyurethane to give a foam [Production Process 4];</li>
+    <li id="ul0001-0003" num="0055">(3) A method in which the thermoplastic polyurethane at a molten state is injected in a mold under a high speed condition, under which the stock pressure is, during the injection, kept to the extent such that the foaming is not effected; and a foam is produced by increasing, after the injection, the mold cavity up to the size of an objective foam [Production method 5]; and so on.</li>
+</ul>
+</p>
+<p id="p-0054" num="0056">Among these methods, in particular, the method in which a unfoamed molded product, obtained by injection under a high speed condition, is subjected to the foaming by a heat treatment [Production Process 4] is more preferred because a foam having a uniform foam structure can be produced with ease.</p>
+<p id="p-0055" num="0057">When the injection of the thermoplastic polyurethane at a molten state is carried out under the high speed condition [Production processes 4 and 5], the injection speed is preferably the speed such that the mold is filled with the thermoplastic polyurethane over 0.5 to 2.5 seconds. In addition, the temperature to which the unfoamed molded product is heated preferably falls within the range of 150 to 180&#xb0; C.</p>
+<p id="p-0056" num="0058">On the other hand, when the injection of the thermoplastic polyurethane at a molten state is carried out under the low speed condition and a foam is produced in the mold simultaneously with the injection [Production process 3], the injection speed is preferably the speed such that the mold is filled with the thermoplastic polyurethane over 4 to 10 seconds.</p>
+<p id="p-0057" num="0059">The polishing pad of the present invention is produced by grinding or slicing the polyurethane foam obtained by the above-described manner, so that the cells are exposed to the surface. Furthermore, the resulting polishing pad can also be subjected to an additional processing such as setting in a prescribed shape, surface processing or lamination with a material serving as a cushion layer.</p>
+<p id="p-0058" num="0060">The polishing pad of the present invention can be used, together with a conventionally known polishing slurry, for chemical mechanical polishing, which may be abbreviated as &#x201c;CMP&#x201d;. The polishing slurry contains, for example, liquid media such as water and oil; polishing agents such as aluminium oxide, cerium oxide, zirconium oxide and silicon carbide; bases; acids; and surfactants. In addition, for carrying out CMP, if required, the polishing slurry may also be used together with a lubricating oil, a cooling mixture, and the like. It is possible to carry out CMP by bringing the surface of the articles to be polished and the polishing pad into contact with each other under pressure, at a given speed, for a given period in the presence of the polishing slurry using a known apparatus for CMP. Although the articles to be polished are not particularly restricted, examples thereof may include rock crystal, silicon, glass, optical base, base for electronic circuit board, base for multilayer wiring board, hard disc and so on.</p>
+<heading id="h-0005" level="1">EXAMPLES</heading>
+<p id="p-0059" num="0061">The present invention will be explained more specifically with reference to examples, but the present invention is not restricted at all to such examples.</p>
+<p id="p-0060" num="0062">In the following Examples, properties of the polyurethane and the polyurethane foam are measured according to the methods shown below.</p>
+<p id="h-0006" num="0000">[Density of the Foam]</p>
+<p id="p-0061" num="0063">The density of the polyurethane foam is measured according to JIS K-7112.</p>
+<p id="h-0007" num="0000">[Cell Size of the Foam]</p>
+<p id="p-0062" num="0064">A photograph of the cross section of the foam is taken by means of a scanning electron microscope [SEM]. Then, the number of cells present in a given area is counted to calculate the number of cells per unit volume, that is the cell density. The average cell size of the foam is calculated based on this cell density, the density of the foam measured above and the density of the thermoplastic polyurethane, granting that the cells have perfect spherical shape.</p>
+<p id="h-0008" num="0000">[Hardness]</p>
+<p id="p-0063" num="0065">Hardness [JIS-D hardness] of the thermoplastic polyurethane is measured according to JIS K-7311 using a sheet having a thickness of 2 mm prepared by injection molding.</p>
+<p id="p-0064" num="0066">Hardness [JIS-C hardness] of the polyurethane foam is measured according to JIS K-7311.</p>
+<p id="h-0009" num="0000">[Softening Temperature]</p>
+<p id="p-0065" num="0067">Vicat softening temperature is measured according to JIS K-7206 under the load of 9.8 N [1 kgf] using a sheet having a thickness of 2 mm prepared by injection molding and subjected to the heat treatment at 100&#xb0; C. for 12 hours.</p>
+<p id="h-0010" num="0000">[Storage Elastic Modulus]</p>
+<p id="p-0066" num="0068">The storage elastic modulus at a specified temperature is measured with a viscoelastic measuring rheometer [&#x201c;DVE Rheospectrer&#x201d;, trade name, made by Rheology Inc.] under a frequency of 11 Hz using a sheet having a thickness of 2 mm prepared by injection molding and subjected to the heat treatment at 90&#xb0; C. for 5 hours.</p>
+<p id="h-0011" num="0000">[Melting Peak Temperature]</p>
+<p id="p-0067" num="0069">Melting peak temperature is measured under nitrogen and at a rate of temperature rise of 10&#xb0; C./min with a differential scanning calorimeter [&#x201c;DSC-30&#x201d;, trade name, made by Mettler tredo Co., Ltd.] using 10 mg of the thermoplastic polyurethane.</p>
+<heading id="h-0012" level="1">Referential Example 1</heading>
+<p id="p-0068" num="0070">A poly(tetramethylene glycol) [abbreviated as &#x201c;PTMG&#x201d;] having a number average molecular weight of 650, 1,4-butanediol [abbreviated as &#x201c;BD&#x201d;] and 4,4&#x2032;-diphenylmethanediisocyanate [abbreviated as &#x201c;MDI&#x201d;] were continuously fed, by constant delivery pumps, into a twin-screw extruder [30 mm &#x3c6;, L/D=36, cylinder temperature: 75 to 260&#xb0; C.] with two screws rotating in the same axial direction, wherein the feed rate of the total weight of the PTMG, the MDI and the BD was 300 g/min and the molar ratio of them was PTMG/MDI/BD=1/7.5/6.5 [content of nitrogen atom: 6.9% by weight], and subjected to continuous melt polymerization to give a thermoplastic polyurethane. The melt of the thermoplastic polyurethane produced was continuously extruded into water as a strand. The resulting polyurethane strands were cut in pellets with a pelletizer. The resulting pellets were dried at 95&#xb0; C. for 20 hours to give a thermoplastic polyurethane having a hardness [JIS-D hardness] of 80, a softening temperature of 140&#xb0; C. and a melting peak temperature of 190&#xb0; C. This polyurethane is referred to as &#x201c;PU-1&#x201d;. Storage elastic modulus of the PU-1 measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] was 1.6&#xd7;10<sup>10 </sup>dyn/cm<sup>2</sup>, and that measured at 0&#xb0; C. [E&#x2032;<sub>0</sub>] was 2.0&#xd7;10<sup>10 </sup>dyn/cm<sup>2</sup>. Ratio of them [E&#x2032;<sub>0</sub>/E&#x2032;<sub>50</sub>] was 1.25.</p>
+<heading id="h-0013" level="1">Referential Example 2</heading>
+<p id="p-0069" num="0071">Procedures of the Referential Example 1 were repeated, except that a poly(3-methylpentanediol adipate) [abbreviated as &#x201c;PMPA&#x201d;] having a number average molecular weight of 500, 1,4-butanediol [BD] and 4,4&#x2032;-diphenylmethanediisocyanate [MDI] were continuously fed into a twin-screw extruder in the molar ratio of PMPA/MDI/BD=1/4.5/3.5 [content of nitrogen atom: 6.5% by weight], to give a thermoplastic polyurethane having a hardness [JIS-D hardness] of 83, a softening temperature of 140&#xb0; C. and a melting peak temperature of 160&#xb0; C. This polyurethane is referred to as &#x201c;PU-2&#x201d;. Storage elastic modulus of the PU-2 measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] was 1.5&#xd7;10<sup>10 </sup>dyn/cm<sup>2</sup>, and that measured at 0&#xb0; C. [E&#x2032;<sub>0</sub>] was 1.95&#xd7;10<sup>10 </sup>dyn/cm<sup>2</sup>. Ratio of them [E&#x2032;<sub>0</sub>/E&#x2032;<sub>50</sub>] was 1.3.</p>
+<heading id="h-0014" level="1">Referential Example 3</heading>
+<p id="p-0070" num="0072">Procedures of the Referential Example 1 were repeated, except that a poly(3-methylpentanediol adipate) [PMPA] having a number average molecular weight of 1,000, 1,4-butanediol [BD] and 4,4&#x2032;-diphenylmethanediisocyanate [MDI] were continuously fed into a twin-screw extruder in the molar ratio of PMPA/MDI/BD=1/7.1/6.1 [content of nitrogen atom: 6.0% by weight], to give a thermoplastic polyurethane having a hardness [JIS-D hardness] of 81, a softening temperature of 145&#xb0; C. and a melting peak temperature of 190&#xb0; C. This polyurethane is referred to as &#x201c;PU-3&#x201d;. Storage elastic modulus of the PU-3 measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] was 1.6&#xd7;10<sup>10 </sup>dyn/cm<sup>2</sup>, and that measured at 0&#xb0; C. [E&#x2032;<sub>0</sub>] was 2.0&#xd7;10<sup>10 </sup>dyn/cm<sup>2</sup>. Ratio of them [E&#x2032;<sub>0</sub>/E&#x2032;<sub>50</sub>] was 1.25.</p>
+<heading id="h-0015" level="1">Referential Example 4</heading>
+<p id="p-0071" num="0073">Procedures of the Referential Example 1 were repeated, except that a poly(3-methylpentanediol adipate) [PMPA] having a number average molecular weight of 1,500, 1,4-butanediol [BD] and 4,4&#x2032;-diphenylmethanediisocyanate [MDI] were continuously fed into a twin-screw extruder in the molar ratio of PMPA/MDI/BD=1/5.5/4.5 [content of nitrogen atom: 4.7% by weight], to give a thermoplastic polyurethane having a hardness [JIS-D hardness] of 53, a softening temperature of 125&#xb0; C. and a melting peak temperature of 190&#xb0; C. This polyurethane is referred to as &#x201c;PU-4&#x201d;. Storage elastic modulus of the PU-4 measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] was 7.3&#xd7;10<sup>8 </sup>dyn/cm<sup>2</sup>, and that measured at 0&#xb0; C. [E&#x2032;<sub>0</sub>] was 1.1&#xd7;10<sup>10 </sup>dyn/cm<sup>2</sup>. Ratio of them [E&#x2032;<sub>0</sub>/E&#x2032;<sub>50</sub>] was 15.0.</p>
+<heading id="h-0016" level="1">Example 1</heading>
+<p id="p-0072" num="0074">A thermoplastic polyurethane [PU-1] was charged in a single-screw extruder [65 mm &#x3c6;], extruded from a T-die under the conditions of a cylinder temperature of 215 to 225&#xb0; C. and a die temperature of 225&#xb0; C., and allowed to pass between a pair of rolls spaced from each other with a gap of 1.8 mm, the temperature of which was adjusted to 60&#xb0; C., to give a sheet having a thickness of 2 mm. Then, the resulting sheet, cut in a size of 5 cm&#xd7;10 cm, was placed in a pressure vessel, and carbon dioxide was dissolved in the sheet under the conditions of a temperature of 130&#xb0; C. and a pressure of 7 MPa for 5 hours to give a sheet containing 1.4% by weight, which is the amount of saturation, of carbon dioxide. After cooled to room temperature, the pressure of the pressure vessel was reduced to atmospheric pressure. Then, the resulting sheet was taken out from the pressure vessel and immersed in a silicon oil of 160&#xb0; C. for 3 minutes. After that, the sheet was taken out from the silicon oil and cooled to room temperature to give a foam. The resulting foam had a density of 0.75 g/cm<sup>3</sup>, a cell size of 20 to 60 &#x3bc;m and a hardness [JIS-C hardness] of 97.</p>
+<p id="p-0073" num="0075">The resulting foam [sheet-like article] was formulated into a polishing pad by grinding the surface thereof, by which the cells were exposed to the surface.</p>
+<heading id="h-0017" level="1">Example 2</heading>
+<p id="p-0074" num="0076">A thermoplastic polyurethane [PU-2] was charged in a single-screw extruder [65 mm &#x3c6;], extruded from a T-die under the conditions of a cylinder temperature of 215 to 225&#xb0; C. and a die temperature of 225&#xb0; C., and allowed to pass between a pair of rolls spaced from each other with a gap of 1.8 mm, the temperature of which was adjusted to 60&#xb0; C., to give a sheet having a thickness of 2 mm. Then, the resulting sheet, cut in a size of 5 cm&#xd7;10 cm, was placed in a pressure vessel, and carbon dioxide was dissolved in the sheet under the conditions of a temperature of 130&#xb0; C. and a pressure of 8 MPa for 5 hours to give a sheet containing 2% by weight, which is the amount of saturation, of carbon dioxide. After cooled to room temperature, the pressure of the pressure vessel was reduced to atmospheric pressure. Then, the resulting sheet was taken out from the pressure vessel and immersed in a silicon oil of 160&#xb0; C. for 3 minutes. After that, the sheet was taken out from the silicon oil and cooled to room temperature to give a foam. The resulting foam had a density of 0.80 g/cm<sup>3</sup>, a cell size of 40 to 80 &#x3bc;m and a hardness [JIS-C hardness] of 99.</p>
+<p id="p-0075" num="0077">The resulting foam [sheet-like article] was formulated into a polishing pad by grinding the surface thereof, by which the cells were exposed to the surface, followed by the formation of a groove in a lattice pattern.</p>
+<heading id="h-0018" level="1">Example 3</heading>
+<p id="p-0076" num="0078">A thermoplastic polyurethane [PU-3] was charged in a single-screw extruder [65 mm &#x3c6;], extruded from a T-die under the conditions of a cylinder temperature of 215 to 225&#xb0; C. and a die temperature of 225&#xb0; C., and allowed to pass between a pair of rolls spaced from each other with a gap of 1.8 mm, the temperature of which was adjusted to 60&#xb0; C., to give a sheet having a thickness of 2 mm. Then, the resulting sheet, cut in a size of 5 cm&#xd7;10 cm, was placed in a pressure vessel, and carbon dioxide was dissolved in the sheet under the conditions of a temperature of 140&#xb0; C. and a pressure of 7 MPa for 5 hours to give a sheet containing 1.2% by weight, which is the amount of saturation, of carbon dioxide. After cooled to room temperature, the pressure of the pressure vessel was reduced to atmospheric pressure. Then, the resulting sheet was taken out from the pressure vessel and immersed in a silicon oil of 160&#xb0; C. for 3 minutes. After that, the sheet was taken out from the silicon oil and cooled to room temperature to give a foam. The resulting foam had a density of 0.78 g/cm<sup>3</sup>, a cell size of 30 to 80 &#x3bc;m and a hardness [JIS-C hardness] of 99.</p>
+<heading id="h-0019" level="1">Example 4</heading>
+<p id="p-0077" num="0079">A thermoplastic polyurethane [PU-2] was charged in a injection molding machine and formulated into a sheet having a thickness of 2 mm under the conditions of a cylinder temperature of 215 to 225&#xb0; C., a nozzle temperature of 225&#xb0; C. and a mold temperature of 50&#xb0; C. Then, the resulting sheet, cut in a size of 5 cm&#xd7;10 cm, was placed in a pressure vessel, and carbon dioxide was dissolved in the sheet under the conditions of a temperature of 130&#xb0; C. and a pressure of 8 MPa for 5 hours to give a sheet containing 1.9% by weight, which is the amount of saturation, of carbon dioxide. After cooled to room temperature, the pressure of the pressure vessel was reduced to atmospheric pressure. Then, the resulting sheet was taken out from the pressure vessel and immersed in a silicon oil of 160&#xb0; C. for 3 minutes. After that, the sheet was taken out from the silicon oil and cooled to room temperature to give a foam. The resulting foam had a density of 0.80 g/cm<sup>3</sup>, a cell size of 50 to 90 &#x3bc;m and a hardness [JIS-C hardness] of 99.</p>
+<heading id="h-0020" level="1">Comparative Example 1</heading>
+<p id="p-0078" num="0080">A thermoplastic polyurethane [PU-4] was charged in a single-screw extruder [65 mm &#x3c6;], extruded from a T-die under the conditions of a cylinder temperature of 180 to 210&#xb0; C. and a die temperature of 210&#xb0; C., and allowed to pass between a pair of rolls spaced from each other with a gap of 1.8 mm, the temperature of which was adjusted to 60&#xb0; C., to give a sheet having a thickness of 2 mm. Then, the resulting sheet, cut in a size of 5 cm&#xd7;10 cm, was placed in a pressure vessel, and carbon dioxide was dissolved in the sheet under the conditions of a temperature of 50&#xb0; C. and a pressure of 8 MPa for 5 hours to give a sheet containing 7.5% by weight, which is the amount of saturation, of carbon dioxide. After cooled to room temperature, the pressure of the pressure vessel was reduced to atmospheric pressure. Then, the resulting sheet was taken out from the pressure vessel and immersed in a silicon oil of 140&#xb0; C. for 3 minutes. After that, the sheet was taken out from the silicon oil and cooled to room temperature to give a foam. The resulting foam had a density of 0.70 g/cm<sup>3</sup>, a cell size of 20 to 40 &#x3bc;m and a hardness [JIS-C hardness] of 38.</p>
+<heading id="h-0021" level="1">Example 5</heading>
+<p id="p-0079" num="0081">A thermoplastic polyurethane [PU-1] was charged in a single-screw extruder [65 mm &#x3c6;], extruded from a T-die under the conditions of a cylinder temperature of 215 to 225&#xb0; C. and a die temperature of 225&#xb0; C., and allowed to pass between a pair of rolls spaced from each other with a gap of 1.8 mm, the temperature of which was adjusted to 60&#xb0; C., to give a sheet having a thickness of 2 mm. Then, the resulting sheet, cut in a size of 5 cm&#xd7;10 cm, was placed in a pressure vessel, and carbon dioxide was dissolved in the sheet under the conditions of a temperature of 160&#xb0; C. and a pressure of 7 MPa for 5 hours. After that, while keeping the temperature at 160&#xb0; C., the pressure of the pressure vessel was reduced to atmospheric pressure over 10 minutes to give a foam. The resulting foam had a density of 0.75 g/cm<sup>3</sup>, a cell size of 20 to 60 &#x3bc;m and a hardness [JIS-C hardness] of 97.</p>
+<heading id="h-0022" level="1">Example 6</heading>
+<p id="p-0080" num="0082">A thermoplastic polyurethane [PU-1] was supplied to a single screw extruder [50 mm &#x3c6;, L/D=28]. It was molten at a cylinder temperature of 210 to 225&#xb0; C., and simultaneously, carbon dioxide was introduced into the mid-part of the cylinder at a pressure of 15 MPa. After kneading, the kneaded mixture was extruded from a T-die having a width of 40 cm, the temperature of which was adjusted to 180&#xb0; C., and allowed to pass between a pair of rolls spaced from each other with a gap of 1.8 mm, the temperature of which was adjusted to 60&#xb0; C. Thus, the foaming was carried out simultaneously with the molding to give a foamed sheet having a thickness of 2 mm. The take-off speed of the sheet was 0.5 m/min. The resulting foam had a density of 0.75 g/cm<sup>3</sup>, a cell size of 20 to 60 &#x3bc;m and a hardness [JIS-C hardness] of 97.</p>
+<p id="p-0081" num="0083">The resulting foam [sheet-like article] was formulated into a polishing pad by grinding the surface thereof, by which the cells were exposed to the surface.</p>
+<heading id="h-0023" level="1">Example 7</heading>
+<p id="p-0082" num="0084">A thermoplastic polyurethane [PU-2] was supplied to a single screw extruder [50 mm &#x3c6;, L/D =28]. It was molten at a cylinder temperature of 210 to 225&#xb0; C., and simultaneously, carbon dioxide was introduced into the mid-part of the cylinder at a pressure of 10 MPa. After kneading, the kneaded mixture was extruded from a T-die having a width of 40 cm, the temperature of which was adjusted to 180&#xb0; C., and allowed to pass between a pair of rolls spaced from each other with a gap of 1.8 mm, the temperature of which was adjusted to 60&#xb0; C., to give a foamed sheet having a thickness of 2 mm. The take-off speed of the sheet was 0.5 m/min. The resulting foam had a density of 0.80 g/cm<sup>3</sup>, a cell size of 40 to 80 &#x3bc;m and a hardness [JIS-C hardness] of 99.</p>
+<heading id="h-0024" level="1">Example 8</heading>
+<p id="p-0083" num="0085">A thermoplastic polyurethane [PU-3] was supplied to a single screw extruder [50 mm &#x3c6;, L/D =28]. It was molten at a cylinder temperature of 210 to 225&#xb0; C., and simultaneously, carbon dioxide was introduced into the mid-part of the cylinder at a pressure of 8 MPa. After kneading, the kneaded mixture was extruded from a T-die having a width of 40 cm, the temperature of which was adjusted to 180&#xb0; C., and allowed to pass between a pair of rolls spaced from each other with a gap of 1.8 mm, the temperature of which was adjusted to 60&#xb0; C., to give a foamed sheet having a thickness of 2 mm. The take-off speed of the sheet was 0.5 m/min. The resulting foam had a density of 0.78 g/cm<sup>3</sup>, a cell size of 30 to 80 &#x3bc;m and a hardness [JIS-C hardness] of 99.</p>
+<heading id="h-0025" level="1">Comparative Example 2</heading>
+<p id="p-0084" num="0086">A thermoplastic polyurethane [PU-4] was supplied to a single screw extruder [50 mm &#x3c6;, L/D=28]. It was molten at a cylinder temperature of 210 to 225&#xb0; C., and simultaneously, carbon dioxide was introduced into the mid-part of the cylinder at a pressure of 15 MPa. After kneading, the kneaded mixture was extruded from a T-die having a width of 40 cm, the temperature of which was adjusted to 180&#xb0; C., and allowed to pass between a pair of rolls spaced from each other with a gap of 1.8 mm, the temperature of which was adjusted to 60&#xb0; C., to give a foamed sheet having a thickness of 2 mm. The take-off speed of the sheet was 0.5 m/min. The resulting foam had a density of 0.70 g/cm<sup>3</sup>, a cell size of 20 to 40 &#x3bc;m and a hardness [JIS-C hardness] of 38.</p>
+<heading id="h-0026" level="1">Example 9</heading>
+<p id="p-0085" num="0087">A thermoplastic polyurethane [PU-2] was supplied to an injection molding machine. It was molten at a cylinder temperature of 210 to 225&#xb0; C., and simultaneously, carbon dioxide was introduced into the mid-part of the cylinder at a pressure of 10 MPa. After kneading, the kneaded mixture was injected into a mold, the temperature of which was adjusted to 50&#xb0; C., at a speed of 40 cm<sup>3</sup>/sec, wherein it took 1.25 seconds to fill the mold. After cooled to room temperature, the mold was opened to release the unfoamed sheet having a thickness of 2 mm. Then, the resulting sheet was immersed in a silicon oil of 160&#xb0; C. for 3 minutes. After that, the sheet was taken out from the silicon oil and cooled to room temperature to give a foam. The resulting foam had a density of 0.80 g/cm<sup>3</sup>, a cell size of 50 to 90 &#x3bc;m and a hardness [JIS-C hardness] of 99.</p>
+<heading id="h-0027" level="1">INDUSTRIAL APPLICABILITY</heading>
+<p id="p-0086" num="0088">In accordance with the present invention, there are provided a polyurethane foam having a uniform foam structure and a process for production thereof, and a polishing pad made of the foam. The polishing pad of the present invention is useful for chemical mechanical polishing, and can be used for the purpose of polishing a semiconductor wafer or the like with high accuracy and high efficiency. The polishing pad of the present invention can achieve the improvements in the flatness of the surface of polished materials and in the planarization efficiency, and can extend the polishing pad life longer than that of the conventional polishing pads.</p>
+<p id="p-0087" num="0089">The foam of the present invention can show a uniform polishing performance even when formulated into a large polishing pad, because it has a uniform foam structure. Further, it can also polish a plurality of articles simultaneously, when formulated into a large polishing pad. In addition, in such a case, there are less variations in quality between the resulting articles after polishing. Thus, the foam of the present invention also contributes to the improvement of the productivity of the articles obtained by the polishing utilizing CMP, such as semiconductors.</p>
+<?DETDESC description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text>1. A polyurethane foam having a density of 0.5 to 1.0 g/cm<sup>3</sup>, a cell size of 5 to 200 &#x3bc;m and a hardness [JIS-C hardness] of not less than 90, comprising a thermoplastic polyurethane which is prepared by a reaction of a high polymer diol, an organic diisocyanate and a chain extender, wherein the thermoplastic polyurethane contains not less than 6% by weight of a nitrogen atom derived from the isocyanate group, and has a storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] of not less than 5&#xd7;10<sup>9 </sup>dyn/cm<sup>2</sup>.</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text>2. A polyurethane foam having a density of 0.5 to 1.0 g/cm<sup>3 </sup>and a cell size of 5 to 200 &#x3bc;m, prepared by dissolving a non-reactive gas, under a pressurized condition, in a thermoplastic polyurethane which is prepared by a reaction of a high polymer diol, an organic diisocyanate and a chain extender, and the thermoplastic polyurethane contains not less than 6% by weight of a nitrogen atom derived from the isocyanate group, and has a storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] of not less than 5&#xd7;10<sup>9 </sup>dyn/cm<sup>2</sup>; then releasing the pressure to effect the foaming of the polyurethane at a temperature of not less than the softening temperature thereof.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text>3. The foam according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the thermoplastic polyurethane in which the non-reactive gas is dissolved is a thermoplastic polyurethane at a molten state.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text>4. The foam according to <claim-ref idref="CLM-00002">claim 2</claim-ref>, wherein the non-reactive gas is carbon dioxide or nitrogen.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text>5. The foam according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the ratio [E&#x2032;<sub>0</sub>/E&#x2032;<sub>50</sub>] of the storage elastic modulus of the thermoplastic polyurethane measured at 0&#xb0; C. [E&#x2032;<sub>0</sub>] based on the storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] is not more than 1.8.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text>6. The foam according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the thermoplastic polyurethane has a melting peak temperature which is not more than 200&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text>7. A polishing pad comprising:
+<claim-text>the foam according to <claim-ref idref="CLM-00001">claim 1</claim-ref>. </claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text>8. A chemical mechanical polishing process comprising:
+<claim-text>polishing a substrate with the foam as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>. </claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text>9. A process for producing a polyurethane foam, comprising:
+<claim-text>dissolving a non-reactive gas in a molded product made of a thermoplastic polyurethane which is prepared by a reaction of a high polymer diol, an organic diisocyanate and a chain extender, wherein the thermoplastic polyurethane contains not less than 6% by weight of a nitrogen atom derived from the isocyanate group, and has a storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] of not less than 5&#xd7;10<sup>9 </sup>dyn/cm<sup>2</sup>, under the conditions of a pressure of 3 to 15 MPa and a temperature of 50 to 160&#xb0; C. in a pressure vessel; </claim-text>
+<claim-text>releasing the pressure of the pressure vessel at a temperature of lower than the softening temperature of the thermoplastic polyurethane; and </claim-text>
+<claim-text>heating the molded product, in which the non-reactive gas is dissolved, to a temperature of not less than the softening temperature of the thermoplastic polyurethane to effect the foaming of the molded product. </claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text>10. A process for producing a polyurethane foam, comprising:
+<claim-text>dissolving a non-reactive gas in a molded product made of a thermoplastic polyurethane which is prepared by a reaction of a high polymer diol, an organic diisocyanate and a chain extender, wherein the thermoplastic polyurethane contains not less than 6% by weight of a nitrogen atom derived from the isocyanate group, and has a storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] of not less than 5&#xd7;10<sup>9 </sup>dyn/cm<sup>2</sup>, under the conditions of a pressure of 3 to 15 MPa and a temperature of 160 to 200&#xb0; C. in a pressure vessel; and </claim-text>
+<claim-text>releasing the pressure of the pressure vessel to effect the foaming of the molded product, in which the non-reactive gas is dissolved. </claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00011" num="00011">
+<claim-text>11. A process for producing a polyurethane foam, comprising:
+<claim-text>dissolving a non-reactive gas in a thermoplastic polyurethane which is prepared by a reaction of a high polymer diol, an organic diisocyanate and a chain extender, wherein the thermoplastic polyurethane contains not less than 6% by weight of a nitrogen atom derived from the isocyanate group, and has a storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] of not less than 5&#xd7;10<sup>9 </sup>dyn/cm<sup>2</sup>, at a molten state under a pressurized condition; and </claim-text>
+<claim-text>subjecting the thermoplastic polyurethane, in which the non-reactive gas is dissolved, to extrusion molding or injection molding under a stock pressure allowing the foaming of said polyurethane to give a foamed molded product; </claim-text>
+<claim-text>wherein the polyurethane foam has a density of 0.5 to 1.0 g/cm<sup>3 </sup>and a cell size of 5 to 200 &#x3bc;m. </claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00012" num="00012">
+<claim-text>12. A process for producing a polyurethane foam, comprising:
+<claim-text>dissolving a non-reactive gas in a thermoplastic polyurethane which is prepared by a reaction of a high polymer diol, an organic diisocyanate and a chain extender, wherein the thermoplastic polyurethane contains not less than 6% by weight of a nitrogen atom derived from the isocyanate group, and has a storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] of not less than 5&#xd7;10<sup>9 </sup>dyn/cm<sup>2</sup>, at a molten state under a pressurized condition; </claim-text>
+<claim-text>subjecting the thermoplastic polyurethane, in which the non-reactive gas is dissolved, to injection molding at a speed such that a stock pressure can be kept within the range under which the foaming of the thermoplastic polyurethane is not effected, to give a unfoamed molded product; and heating the unfoamed molded product to a temperature of not less than the softening temperature of the thermoplastic polyurethane to effect the foaming of the molded product; </claim-text>
+<claim-text>wherein said polyurethane foam has a density of 0.5 to 1.0 g/cm<sup>3 </sup>and a cell size of 5 to 200 &#x3bc;m. </claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00013" num="00013">
+<claim-text>13. A process for producing a polyurethane foam, comprising:
+<claim-text>dissolving a non-reactive gas in a thermoplastic polyurethane which is prepared by a reaction of a high polymer diol, an organic diisocyanate and a chain extender, wherein the thermoplastic polyurethane contains not less than 6% by weight of a nitrogen atom derived from the isocyanate group, and has a storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] of not less than 5&#xd7;10<sup>9 </sup>dyn/cm<sup>2</sup>, at a molten state under a pressurized condition; </claim-text>
+<claim-text>injecting the thermoplastic polyurethane, in which the non-reactive gas is dissolved, into a mold at a speed such that a stock pressure can be kept within the range under which the foaming of the thermoplastic polyurethane is not effected; and increasing the mold cavity to give a foamed molded product; </claim-text>
+<claim-text>wherein said polyurethane foam has a density of 0.5 to 1.0 g/cm<sup>3 </sup>and a cell size of 5 to 200 &#x3bc;m. </claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00014" num="00014">
+<claim-text>14. The process for producing a polyurethane foam according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the ratio [E&#x2032;<sub>0</sub>/E&#x2032;<sub>50</sub>] of the storage elastic modulus of the thermoplastic polyurethane measured at 0&#xb0; C. [E&#x2032;<sub>0</sub>] based on the storage elastic modulus measured at 50&#xb0; C. [E&#x2032;<sub>50</sub>] is not more than 1.8.</claim-text>
+</claim>
+<claim id="CLM-00015" num="00015">
+<claim-text>15. The process for producing a polyurethane foam according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the thermoplastic polyurethane has a melting peak temperature which is not more than 200&#xb0; C.</claim-text>
+</claim>
+<claim id="CLM-00016" num="00016">
+<claim-text>16. The process for producing a polyurethane foam according to <claim-ref idref="CLM-00009">claim 9</claim-ref>, wherein the non-reactive gas is carbon dioxide or nitrogen.</claim-text>
+</claim>
+</claims>
+</us-patent-grant>
