@@ -10,16 +10,13 @@ print type(text)
 patents = re.split('</us-patent-grant>', text)
 print len(patents)  # verify if got all patents. last space should be empty since split returns tuple and split string is at end
 
-### find training data features
-
-
 for patent in patents:
 
-	## find patent number/identifier (find--->file="US06979701-20051227.XML")
+	## find patent number/identifier (find--->file="US06979701-20051227.XML") WORKING
 	patent_number_row = re.findall ( '<us-patent-grant(.*?)id="us-patent-grant"', patent, re.DOTALL)
 	patent_number_row = str(patent_number_row) #convert to string for string input on next line
 	patent_number = re.findall ( 'file="(.*?)-', patent_number_row, re.DOTALL)
-	print patent_number
+	print ("Patent number: %s " % str(patent_number))
 
 	'''
 	</us-term-of-grant>
@@ -37,27 +34,26 @@ for patent in patents:
 	</classification-national>
 	<invention-title
 	'''
-	## find US classifications  
+	## find US classifications  WORKING
 	classification_row = re.findall ( '</us-term-of-grant>(.*?)<invention-title', patent, re.DOTALL)
 	classification_row = str(classification_row)
 	us_class_row = re.findall ( '<country>US</country>(.*?)</classification-national>', classification_row, re.DOTALL)
-	for classification in us_class_row:
-		main_classification = re.findall ( '<main-classification>(.*?)<', classification, re.DOTALL)
-		print ("US main class: %s " % str(main_classification))
+	us_class_row = str(us_class_row)
+	main_classification = re.findall ( '<main-classification>(.*?)<', us_class_row, re.DOTALL)
+	print ("US main class: %s " % str(main_classification))
 
-		further_classification = re.findall ( '<further-classification>(.*?)</further-classification>', classification, re.DOTALL)
-		print ("Further US classes: %s " % str(further_classification))
+	further_classification = re.findall ( '<further-classification>(.*?)</further-classification>', us_class_row, re.DOTALL)
+	print ("Further US classes: %s " % str(further_classification))
 
-	## find IPC classifications
+	## find IPC classifications WORKING
 	ipc_class_row = re.findall ( '<classification-ipc>(.*?)</classification-ipc>', classification_row, re.DOTALL)
 	ipc_class_row = str(ipc_class_row)
 	full_ipc = re.findall ( '<main-classification>(.*?)<', ipc_class_row, re.DOTALL)
-	for classification in full_ipc:
-		full_ipc = str(classification)
-		print ("IPC class: %s " % full_ipc)
+	full_ipc = str(full_ipc)
+	print ("IPC class: %s " % full_ipc)
 	
 
-	## find search classifications
+	## find search classifications WORKING
 	'''
 	<field-of-search>
 	<classification-national>
@@ -91,6 +87,10 @@ for patent in patents:
 	</classification-national>
 	</field-of-search>
 	'''
+	search_classification_row = re.findall ( '<field-of-search>(.*?)</field-of-search>', patent, re.DOTALL)
+	search_classification_row = str(search_classification_row)
+	search_main_class_row = re.findall ( '<main-classification>(.*?)</main-classification>', search_classification_row, re.DOTALL)
+	print ("Field of search: %s " % str(search_main_class_row))
 
 
 	## find art unit
@@ -103,6 +103,11 @@ for patent in patents:
 	</primary-examiner>
 	</examiners>
 	'''
+	art_unit_row = re.findall ( '<examiners>(.*?)</examiners>', patent, re.DOTALL)
+	art_unit_row = str(art_unit_row)
+	art_unit = re.findall ( '<department>(.*?)</department>', art_unit_row, re.DOTALL)
+	print ("Art Unit: %s " % str(art_unit))
+
 	## find each description WORKING
 #	description = re.findall ( '<description id="description">(.*?)</description>', patent, re.DOTALL)
 #	print description  #prints the last blank one from patents
@@ -111,10 +116,9 @@ for patent in patents:
 #	claims = re.findall ( '<claims id="claims">(.*?)</claims>', patent, re.DOTALL)
 #	print claims
 
-
-
-
-
+#############################
+	# write to csv file #
+#############################	
 
 
 f.close()  #close the file when finished
