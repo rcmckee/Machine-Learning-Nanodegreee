@@ -49,7 +49,7 @@ for patent in patents:
 		print ("Further US classes: %s " % str(further_classification))
 
 	## find IPC classifications
-	ipc_class_row = re.findall ( '<country>US</country>(.*?)</classification-national>', classification_row, re.DOTALL)
+	ipc_class_row = re.findall ( '<classification-ipc>(.*?)</classification-ipc>', classification_row, re.DOTALL)
 	ipc_class_row = str(ipc_class_row)
 	full_ipc = re.findall ( '<main-classification>(.*?)<', ipc_class_row, re.DOTALL)
 	for classification in full_ipc:
